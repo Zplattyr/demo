@@ -2,117 +2,105 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "Я хочу уродские РУКИ-БАЗУКИ! Кирилл Терешин и его «слажный путь» к 900 000 руб. в месяц.",
+			"name": "САМЫЙ БОГАТЫЙ ЧЕЛОВЕК ВСЕХ ВРЕМЕН И НАРОДОВ",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=iELEFn-Uhy0"
+			"link": "https://www.youtube.com/watch?v=hIlBdaIWcT4"
 		},
 		{
 			"id": 2,
-			"name": "React Hooks - Полный Курс (Про Все Хуки!)",
-			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=9KJxaFHotqI"
-		},
-		{
-			"id": 3,
-			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
-			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
-			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
-		},
-		{
-			"id": 4,
-			"name": "Без этого жизни на Земле не было бы / Космос",
-			"author": "Космос Просто",
-			"link": "https://www.youtube.com/watch?v=N15iDGI-XK0"
-		},
-		{
-			"id": 5,
-			"name": "ТОП 7 САМЫХ УПОРОТЫХ МУЛЬТФИЛЬМОВ",
-			"author": "Штаб Коммандера",
-			"link": "https://www.youtube.com/watch?v=KceNPleIXcQ"
-		},
-		{
-			"id": 6,
-			"name": "Какой язык программирования выбрать в 2021?",
-			"author": "Sergey Nemchinskiy",
-			"link": "https://www.youtube.com/watch?v=NO6iLm_X4Qw"
-		},
-		{
-			"id": 7,
-			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
-			"author": "Простая Академия",
-			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
-		},
-		{
-			"id": 8,
-			"name": "АЙФОН. Почему у нас нет своего.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=Sr7Gq8ddO40"
-		},
-		{
-			"id": 9,
-			"name": "Intel Core i3, Core i5 и Core i7 понятным языком.",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=MEizxb1zO0w"
-		},
-		{
-			"id": 10,
-			"name": "Компьютерные шутки на первое апреля",
-			"author": "overbafer1",
-			"link": "https://www.youtube.com/watch?v=kFWagW2Kquc"
-		},
-		{
-			"id": 11,
-			"name": "JSON and AJAX Tutorial: With Real Examples",
-			"author": "LearnWebCode",
-			"link": "https://www.youtube.com/watch?v=rJesac0_Ftw"
-		},
-		{
-			"id": 12,
-			"name": "Всё про Node.js / От 0 до 2,5к долларов за год / Интервью с Backend JS Developer",
-			"author": "АйТиБорода",
-			"link": "https://www.youtube.com/watch?v=qQwcCS8K_K0"
-		},
-		{
-			"id": 13,
-			"name": "Как ТЕЛЕГРАФ превратился в ИНТЕРНЕТ?",
-			"author": "Физика от Побединского",
-			"link": "https://www.youtube.com/watch?v=70OZKS5APDI"
-		},
-		{
-			"id": 14,
-			"name": "Linux Mint 20.1 «Ulyssa»",
-			"author": "Pingvinus",
-			"link": "https://www.youtube.com/watch?v=mzIinmLu1qU"
-		},
-		{
-			"id": 15,
-			"name": "Рх 580 и 570 в майнинге на эфире. Ферма за 3400$ 182 Mh/s. До и после прошивки биоса.",
-			"author": "Serega Soleniy miner",
-			"link": "https://www.youtube.com/watch?v=0psLixJpaTc"
-		},
-		{
-			"id": 16,
-			"name": "Учёные преодолели «СУМЕРЕЧНУЮ ЗОНУ СОЗНАНИЯ» | Пушка",
-			"author": "SciOne",
-			"link": "https://www.youtube.com/watch?v=WkM4YwxPmoc"
-		},
-		{
-			"id": 17,
 			"name": "Node JS - Быстрый Курс за 1 час (Все Включено!)",
 			"author": "Владилен Минин",
 			"link": "https://www.youtube.com/watch?v=3aGSqasVPsI"
 		},
 		{
-			"id": 18,
-			"name": "HDMI 2.1 — ОБЪЯСНЯЕМ ТЕХНОЛОГИИ",
-			"author": "Droider.Ru",
-			"link": "https://www.youtube.com/watch?v=cWz8lKlTkmY"
+			"id": 3,
+			"name": "ТОП-10 | КУЛЬТОВЫЕ ПОСЛЕДНИЕ СЛОВА ЗЛОДЕЕВ",
+			"author": "Кино Огонь",
+			"link": "https://www.youtube.com/watch?v=dg6CNrzXcdk"
 		},
 		{
-			"id": 19,
-			"name": "Бытовой Торчок. ДЕНЬГИ 2.0",
+			"id": 4,
+			"name": "Выбрать ТВ ДИСПЛЕЙ: IPS vs TN vs VA. В ЧЕМ РАЗНИЦА?",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=Uuz1tyNplL8"
+		},
+		{
+			"id": 5,
+			"name": "Почему я НЕ даю Милостыню",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=aQHupYegcSM"
+			"link": "https://www.youtube.com/watch?v=q205-ccb7Tw"
+		},
+		{
+			"id": 6,
+			"name": "Как ТЕЛЕГРАФ превратился в ИНТЕРНЕТ?",
+			"author": "Физика от Побединского",
+			"link": "https://www.youtube.com/watch?v=70OZKS5APDI"
+		},
+		{
+			"id": 7,
+			"name": "Ленивый Способ Разбогатеть На AMAZON = 5 Простых Шагов.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=fINuaSHPztA"
+		},
+		{
+			"id": 8,
+			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
+			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
+			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
+		},
+		{
+			"id": 9,
+			"name": "Как я зарабатывал 500к в месяц на JavaScript",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=HZk31lZYmME"
+		},
+		{
+			"id": 10,
+			"name": "Учёные преодолели «СУМЕРЕЧНУЮ ЗОНУ СОЗНАНИЯ» | Пушка",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=WkM4YwxPmoc"
+		},
+		{
+			"id": 11,
+			"name": "Когда я следовал за прогулкой ситцевого кота, я стал очень сладким с середины",
+			"author": "感動猫動画",
+			"link": "https://www.youtube.com/watch?v=czkfKyXbKvg"
+		},
+		{
+			"id": 12,
+			"name": "Шесть ядер из 2010 года / AMD Phenom II X6 / Затащит в 2021?",
+			"author": "Maddy MURK",
+			"link": "https://www.youtube.com/watch?v=1oJ-8md2YyI"
+		},
+		{
+			"id": 13,
+			"name": "Ты, а не тебя. Армии умных ботов в руках хакера",
+			"author": "Positive Technologies",
+			"link": "https://www.youtube.com/watch?v=z6okdbRjZ6A"
+		},
+		{
+			"id": 14,
+			"name": "ПЕРЕВОДЫ | Что не так с "Над пропастью во ржи" Сэлинджера? | Какой перевод выбрать? Сэлинджер (#23)",
+			"author": "Armen Zakharyan",
+			"link": "https://www.youtube.com/watch?v=rFTI47LQ5ig"
+		},
+		{
+			"id": 15,
+			"name": "Linux Mint 20.1 «Ulyssa»",
+			"author": "Pingvinus",
+			"link": "https://www.youtube.com/watch?v=mzIinmLu1qU"
+		},
+		{
+			"id": 16,
+			"name": "Брокер Freedom Finance: честный отзыв / Магазин акций Freedom24, платформа TraderNet, IPO",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=PpIZg_0GbbU"
+		},
+		{
+			"id": 17,
+			"name": "КОНЬ БОДЖЕК - БОЛЬ, ДЕПРЕССИЯ И АЛКОГОЛЬ! / Обзор самого дерзкого сериала (Ещё по одной?)",
+			"author": "ЧЕРНЫЙ КАБИНЕТ",
+			"link": "https://www.youtube.com/watch?v=UrBxT6Ahl1o"
 		}
 	]
 }
