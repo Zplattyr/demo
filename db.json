@@ -2,15 +2,15 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "СХЕМАТОЗ от ДЕНЧИКА. INET-БАБЛО = Pinterest + POD (teespring.com).",
+			"name": "Я хочу уродские РУКИ-БАЗУКИ! Кирилл Терешин и его «слажный путь» к 900 000 руб. в месяц.",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=MLHvm42skxQ"
+			"link": "https://www.youtube.com/watch?v=iELEFn-Uhy0"
 		},
 		{
 			"id": 2,
-			"name": "React + NodeJS Сайт за 3 часа с нуля",
+			"name": "React Hooks - Полный Курс (Про Все Хуки!)",
 			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=ivDjWYcKDZI"
+			"link": "https://www.youtube.com/watch?v=9KJxaFHotqI"
 		},
 		{
 			"id": 3,
@@ -20,63 +20,63 @@
 		},
 		{
 			"id": 4,
-			"name": "ЗАЧЕМ ЭКРАНУ 300 Гц?",
-			"author": "Droider.Ru",
-			"link": "https://www.youtube.com/watch?v=nztsg9ulRSg"
-		},
-		{
-			"id": 5,
-			"name": "5 Вещей Которые НЕЛЬЗЯ делать Мужчине.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=nFvLVgaYBdc"
-		},
-		{
-			"id": 6,
-			"name": "Топ-10 акций роста / Куда вложить деньги в 2021 году. LIVE",
-			"author": "Деньги не спят",
-			"link": "https://www.youtube.com/watch?v=aJ59Yr3CjIU"
-		},
-		{
-			"id": 7,
-			"name": "Дорога на Эльдорадо - забытый, но не шедевр",
-			"author": "HIMA",
-			"link": "https://www.youtube.com/watch?v=ANnjHHB7QIc"
-		},
-		{
-			"id": 8,
-			"name": "Падение цен на нефть, отчеты Intel и IBM и ЦБ против структурных продуктов / Новости рынков",
-			"author": "InvestFuture",
-			"link": "https://www.youtube.com/watch?v=7go5kGqQtzM"
-		},
-		{
-			"id": 9,
-			"name": "Build Glass Website with HTML and CSS Tutorial",
-			"author": "Dev Ed",
-			"link": "https://www.youtube.com/watch?v=O7WbVj5apxU"
-		},
-		{
-			"id": 10,
 			"name": "Без этого жизни на Земле не было бы / Космос",
 			"author": "Космос Просто",
 			"link": "https://www.youtube.com/watch?v=N15iDGI-XK0"
 		},
 		{
+			"id": 5,
+			"name": "ТОП 7 САМЫХ УПОРОТЫХ МУЛЬТФИЛЬМОВ",
+			"author": "Штаб Коммандера",
+			"link": "https://www.youtube.com/watch?v=KceNPleIXcQ"
+		},
+		{
+			"id": 6,
+			"name": "Какой язык программирования выбрать в 2021?",
+			"author": "Sergey Nemchinskiy",
+			"link": "https://www.youtube.com/watch?v=NO6iLm_X4Qw"
+		},
+		{
+			"id": 7,
+			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
+		},
+		{
+			"id": 8,
+			"name": "АЙФОН. Почему у нас нет своего.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=Sr7Gq8ddO40"
+		},
+		{
+			"id": 9,
+			"name": "Intel Core i3, Core i5 и Core i7 понятным языком.",
+			"author": "Ай, Как Просто!",
+			"link": "https://www.youtube.com/watch?v=MEizxb1zO0w"
+		},
+		{
+			"id": 10,
+			"name": "Компьютерные шутки на первое апреля",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=kFWagW2Kquc"
+		},
+		{
 			"id": 11,
-			"name": "Google Maps JavaScript API Tutorial",
-			"author": "Traversy Media",
-			"link": "https://www.youtube.com/watch?v=Zxf1mnP5zcw"
+			"name": "JSON and AJAX Tutorial: With Real Examples",
+			"author": "LearnWebCode",
+			"link": "https://www.youtube.com/watch?v=rJesac0_Ftw"
 		},
 		{
 			"id": 12,
-			"name": "Почему закрывается Рокетбанк? Неудачный эксперимент от QIWI",
-			"author": "NN",
-			"link": "https://www.youtube.com/watch?v=oUNrJbTCNME"
+			"name": "Всё про Node.js / От 0 до 2,5к долларов за год / Интервью с Backend JS Developer",
+			"author": "АйТиБорода",
+			"link": "https://www.youtube.com/watch?v=qQwcCS8K_K0"
 		},
 		{
 			"id": 13,
-			"name": "Солдаты. 1 сезон 1 серия",
-			"author": "Сериалы. РЕН ТВ",
-			"link": "https://www.youtube.com/watch?v=ChamQOrPh4A"
+			"name": "Как ТЕЛЕГРАФ превратился в ИНТЕРНЕТ?",
+			"author": "Физика от Побединского",
+			"link": "https://www.youtube.com/watch?v=70OZKS5APDI"
 		},
 		{
 			"id": 14,
@@ -86,21 +86,33 @@
 		},
 		{
 			"id": 15,
-			"name": "Как ТЕЛЕГРАФ превратился в ИНТЕРНЕТ?",
-			"author": "Физика от Побединского",
-			"link": "https://www.youtube.com/watch?v=70OZKS5APDI"
+			"name": "Рх 580 и 570 в майнинге на эфире. Ферма за 3400$ 182 Mh/s. До и после прошивки биоса.",
+			"author": "Serega Soleniy miner",
+			"link": "https://www.youtube.com/watch?v=0psLixJpaTc"
 		},
 		{
 			"id": 16,
-			"name": "КУРСЫ ПО ПРОГРАММИРОВАНИЮ",
-			"author": "ExtremeCode",
-			"link": "https://www.youtube.com/watch?v=pWbg9nHNMIA"
+			"name": "Учёные преодолели «СУМЕРЕЧНУЮ ЗОНУ СОЗНАНИЯ» | Пушка",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=WkM4YwxPmoc"
 		},
 		{
 			"id": 17,
-			"name": "Как я зарабатывал 500к в месяц на JavaScript",
+			"name": "Node JS - Быстрый Курс за 1 час (Все Включено!)",
 			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=HZk31lZYmME"
+			"link": "https://www.youtube.com/watch?v=3aGSqasVPsI"
+		},
+		{
+			"id": 18,
+			"name": "HDMI 2.1 — ОБЪЯСНЯЕМ ТЕХНОЛОГИИ",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=cWz8lKlTkmY"
+		},
+		{
+			"id": 19,
+			"name": "Бытовой Торчок. ДЕНЬГИ 2.0",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=aQHupYegcSM"
 		}
 	]
 }
