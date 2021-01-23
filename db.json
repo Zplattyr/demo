@@ -2,99 +2,105 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "Вадим Зеланд - Визуализация цели с гарантией.",
-			"author": "ТРАНСЕРФИНГ реальности",
-			"link": "https://www.youtube.com/watch?v=3u-1mY61-tU"
+			"name": "ЧТО НЕ ДЕЛАЮТ МИЛЛИОНЕРЫ",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=JAA1OQXqtrs"
 		},
 		{
 			"id": 2,
-			"name": "КАК МОНЕТИЗИРОВАТЬ УЖАС: Бизнес На Страхе и Мертвецах.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=CW76bOOpiG0"
+			"name": "ES6, ES7, ES8 - ВСЕ НОВОВВЕДЕНИЯ В JAVASCRIPT",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=Ti2Q4sQkNdU"
 		},
 		{
 			"id": 3,
-			"name": "Учёные преодолели «СУМЕРЕЧНУЮ ЗОНУ СОЗНАНИЯ» | Пушка",
-			"author": "SciOne",
-			"link": "https://www.youtube.com/watch?v=WkM4YwxPmoc"
+			"name": "Южный парк- Молчание Ягнят",
+			"author": "Mult moments",
+			"link": "https://www.youtube.com/watch?v=BkTyWbjHnbI"
 		},
 		{
 			"id": 4,
-			"name": "Урок 14. JavaScript. Запросы на сервер. Fetch, XMLHttpRequest (XHR), Ajax",
-			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=eKCD9djJQKc"
+			"name": "Как перестать делать НИЧЕГО / Интервью с корпоративным прокрастинатологом - Максом Дорофеевым",
+			"author": "АйТиБорода",
+			"link": "https://www.youtube.com/watch?v=v0ttYrw3KjA"
 		},
 		{
 			"id": 5,
-			"name": "Чему я Научился у Роберта Кийосаки. Книга «Богатый Папа Бедный Папа».",
+			"name": "Вся наша жизнь - это ОБМЕН",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=X1m3QyVR1gw"
+			"link": "https://www.youtube.com/watch?v=bkcMwEcPHDw"
 		},
 		{
 			"id": 6,
-			"name": "МинФин давит на рубль. Акции Signal готовятся к развороту. Стоит ли захоить в позиции?",
-			"author": "Ramy Zaycman",
-			"link": "https://www.youtube.com/watch?v=Y1SbweUHptY"
+			"name": "КАК ТОРГОВАТЬ БИТКОИН С ПЛЕЧАМИ НА БИРЖЕ BINANCE И BITMEX",
+			"author": "ProScalping - Интрадей и скальпинг",
+			"link": "https://www.youtube.com/watch?v=netc0E3mhQE"
 		},
 		{
 			"id": 7,
-			"name": "ИДИОКРАТИЯ APPLE...",
-			"author": "iKakProsto2",
-			"link": "https://www.youtube.com/watch?v=ZPdDJ-gOZBs"
+			"name": "How to Create a Modern Flat UI Design Dashboard in C# 2020",
+			"author": "iweb makers",
+			"link": "https://www.youtube.com/watch?v=vYDyGxoq9JU"
 		},
 		{
 			"id": 8,
-			"name": "Автодом ПАЗИК — поехали!",
-			"author": "Тысячеликий герой",
-			"link": "https://www.youtube.com/watch?v=XikF1v1Pt68"
+			"name": "Как Легко Получить 160 000 рублей Пассивного Дохода в год.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=3LGBzB5VgII"
 		},
 		{
 			"id": 9,
-			"name": "Совет людям с депрессией – Джордан Питерсон",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=nfti1dt0iFY"
+			"name": "ЗАЧЕМ ЭКРАНУ 300 Гц?",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=nztsg9ulRSg"
 		},
 		{
 			"id": 10,
-			"name": "В мире животных №1.Зашквар Reebok, Рыбка Дерипаско, Сломанные Ребра Гуфа, уфимские жлобы",
-			"author": "ЧЕРНЫЙ КАБИНЕТ",
-			"link": "https://www.youtube.com/watch?v=cgG_4u1SOa8"
+			"name": "ETHEREUM 2.0 - A GAME CHANGER? Proof Of Stake, The Beacon Chain, Sharding, Docking Explained",
+			"author": "Finematics",
+			"link": "https://www.youtube.com/watch?v=ctzGr58_jeI"
 		},
 		{
 			"id": 11,
-			"name": "КОНЬ БОДЖЕК - БОЛЬ, ДЕПРЕССИЯ И АЛКОГОЛЬ! / Обзор самого дерзкого сериала (Ещё по одной?)",
-			"author": "Kerbal Space Program",
-			"link": "https://www.youtube.com/watch?v=UrBxT6Ahl1o"
+			"name": "Voyager",
+			"author": "Guy Collins Animation",
+			"link": "https://www.youtube.com/watch?v=BwcJXUWXMTI"
 		},
 		{
 			"id": 12,
-			"name": "Kerbal Space Program 2 Cinematic Announce Trailer",
-			"author": "Сериалы. РЕН ТВ",
-			"link": "https://www.youtube.com/watch?v=P_nj6wW6Gsc&t=2s"
+			"name": "АНОНИЗМность в сети 2017 - обход блокировки TOR и VPN",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=9dkAtS7BFQU"
 		},
 		{
 			"id": 13,
-			"name": "Солдаты. 1 сезон 1 серия",
-			"author": "вДудь",
-			"link": "https://www.youtube.com/watch?v=ChamQOrPh4A"
+			"name": "Бойцовский Клуб: Визуализация Подсознания Героя и Перфекционизм в Режиссуре",
+			"author": "MovieScience",
+			"link": "https://www.youtube.com/watch?v=Bi3jlTwXHPs"
 		},
 		{
 			"id": 14,
 			"name": "Навальные – интервью после отравления / The Navalniys Post-poisoning (English subs)",
-			"author": "Хауди Хо™ - Просто о мире IT!",
+			"author": "вДудь",
 			"link": "https://www.youtube.com/watch?v=vps43rXgaZc"
 		},
 		{
 			"id": 15,
-			"name": "Учим PHP за 1 Час! ► Часть 2 ► Работа с СУБД #От Профессионала",
-			"author": "Quke.ru",
-			"link": "https://www.youtube.com/watch?v=vJRL_MKoX9M"
+			"name": "Сделай дело. Снова! Но сначала заскучай.",
+			"author": "Хулиномика",
+			"link": "https://www.youtube.com/watch?v=chLnTTLfL3k"
 		},
 		{
 			"id": 16,
-			"name": "SAMSUNG GALAXY NOTE 20 — крутой флагман в пластике? / QUKE.RU /",
-			"author": "Traversy Media",
-			"link": "https://www.youtube.com/watch?v=AO8YvlICEpE"
+			"name": "Люди хотят мимими, сову, как у Гарри Поттера. А потом несут сову мне /зоологи/сова/ .",
+			"author": "Канал Елены Погребижской",
+			"link": "https://www.youtube.com/watch?v=4y-UYAT0OcY"
+		},
+		{
+			"id": 17,
+			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
+			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
+			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
 		}
 	]
 }
