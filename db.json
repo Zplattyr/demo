@@ -2,105 +2,99 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "РЕПТИЛОИД ПРО №3. ПУТИН, РОССИЯ, КРЫМ.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=4cbayWYqVwc"
+			"name": "Вадим Зеланд - Визуализация цели с гарантией.",
+			"author": "ТРАНСЕРФИНГ реальности",
+			"link": "https://www.youtube.com/watch?v=3u-1mY61-tU"
 		},
 		{
 			"id": 2,
-			"name": "Два месяца с Samsung Galaxy Note 9 – Полный обзор",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=Lb_16PUqvS4"
+			"name": "КАК МОНЕТИЗИРОВАТЬ УЖАС: Бизнес На Страхе и Мертвецах.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=CW76bOOpiG0"
 		},
 		{
 			"id": 3,
-			"name": "QNET - Промывка мозгов международного масштаба (Интернет-Помойка #23 Vol.2))",
-			"author": "Дмитрий Костин",
-			"link": "https://www.youtube.com/watch?v=pp4yIoKYcAo&t=814s"
+			"name": "Учёные преодолели «СУМЕРЕЧНУЮ ЗОНУ СОЗНАНИЯ» | Пушка",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=WkM4YwxPmoc"
 		},
 		{
 			"id": 4,
-			"name": "«Квадрант денежного потока». Роберт Кийосаки | Саммари ®",
-			"author": "RomanSergeevCom",
-			"link": "https://www.youtube.com/watch?v=m5tZweOIXB4"
+			"name": "Урок 14. JavaScript. Запросы на сервер. Fetch, XMLHttpRequest (XHR), Ajax",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=eKCD9djJQKc"
 		},
 		{
 			"id": 5,
-			"name": "ВСЕ ФИЛЬМЫ ФИНЧЕРА: ОТ ХУДШЕГО К ЛУЧШЕМУ",
-			"author": "Кино Огонь",
-			"link": "https://www.youtube.com/watch?v=OT3_DNm09-I"
+			"name": "Чему я Научился у Роберта Кийосаки. Книга «Богатый Папа Бедный Папа».",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=X1m3QyVR1gw"
 		},
 		{
 			"id": 6,
-			"name": "Эти 3 МАТЕРНЫЕ Фразы Нужно Говорить Вместо НЕ ПЕРЕЖИВАЙ",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=wpspBa5hFx0"
+			"name": "МинФин давит на рубль. Акции Signal готовятся к развороту. Стоит ли захоить в позиции?",
+			"author": "Ramy Zaycman",
+			"link": "https://www.youtube.com/watch?v=Y1SbweUHptY"
 		},
 		{
 			"id": 7,
-			"name": "Вся суть программирования на JavaScript",
-			"author": "ExtremeCode",
-			"link": "https://www.youtube.com/watch?v=nXydfloXHMY"
+			"name": "ИДИОКРАТИЯ APPLE...",
+			"author": "iKakProsto2",
+			"link": "https://www.youtube.com/watch?v=ZPdDJ-gOZBs"
 		},
 		{
 			"id": 8,
-			"name": "Сетевой маркетинг в 2020 году",
-			"author": "NN",
-			"link": "https://www.youtube.com/watch?v=LHG775ig760"
+			"name": "Автодом ПАЗИК — поехали!",
+			"author": "Тысячеликий герой",
+			"link": "https://www.youtube.com/watch?v=XikF1v1Pt68"
 		},
 		{
 			"id": 9,
-			"name": "Vader Episode 2: Mace Windu Returns - The Amethyst Blade Cinematic",
-			"author": "Star Wars Theory",
-			"link": "https://www.youtube.com/watch?v=gEL8aHfSk-4"
+			"name": "Совет людям с депрессией – Джордан Питерсон",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=nfti1dt0iFY"
 		},
 		{
 			"id": 10,
-			"name": "Аудиокнига Антихрупкость. Нассим Талеб. Полная версия.",
-			"author": "Алексей Балакирев",
-			"link": "https://www.youtube.com/watch?v=UgLb209Yxv4"
+			"name": "В мире животных №1.Зашквар Reebok, Рыбка Дерипаско, Сломанные Ребра Гуфа, уфимские жлобы",
+			"author": "ЧЕРНЫЙ КАБИНЕТ",
+			"link": "https://www.youtube.com/watch?v=cgG_4u1SOa8"
 		},
 		{
 			"id": 11,
-			"name": "В МЖ №2. Бой Тарасов VS Дацик, Севастопольская Резня, Налог на Воду, Чебурнет близок",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=c5zjnyozHag"
+			"name": "КОНЬ БОДЖЕК - БОЛЬ, ДЕПРЕССИЯ И АЛКОГОЛЬ! / Обзор самого дерзкого сериала (Ещё по одной?)",
+			"author": "Kerbal Space Program",
+			"link": "https://www.youtube.com/watch?v=UrBxT6Ahl1o"
 		},
 		{
 			"id": 12,
-			"name": "Когда уже лопнет фондовый пузырь США?",
-			"author": "Ramy Zaycman",
-			"link": "https://www.youtube.com/watch?v=o22i16KvO_g"
+			"name": "Kerbal Space Program 2 Cinematic Announce Trailer",
+			"author": "Сериалы. РЕН ТВ",
+			"link": "https://www.youtube.com/watch?v=P_nj6wW6Gsc&t=2s"
 		},
 		{
 			"id": 13,
-			"name": "Навальные – интервью после отравления / The Navalniys Post-poisoning (English subs)",
+			"name": "Солдаты. 1 сезон 1 серия",
 			"author": "вДудь",
-			"link": "https://www.youtube.com/watch?v=vps43rXgaZc"
+			"link": "https://www.youtube.com/watch?v=ChamQOrPh4A"
 		},
 		{
 			"id": 14,
-			"name": "Учим PHP за 1 Час! ► Часть 2 ► Работа с СУБД #От Профессионала",
+			"name": "Навальные – интервью после отравления / The Navalniys Post-poisoning (English subs)",
 			"author": "Хауди Хо™ - Просто о мире IT!",
-			"link": "https://www.youtube.com/watch?v=vJRL_MKoX9M"
+			"link": "https://www.youtube.com/watch?v=vps43rXgaZc"
 		},
 		{
 			"id": 15,
-			"name": "ТОП 10 БАГОВ ВКОНТАКТЕ ОТ ПОДПИСЧИКОВ",
-			"author": "overbafer1",
-			"link": "https://www.youtube.com/watch?v=uXtsAFphE9w"
+			"name": "Учим PHP за 1 Час! ► Часть 2 ► Работа с СУБД #От Профессионала",
+			"author": "Quke.ru",
+			"link": "https://www.youtube.com/watch?v=vJRL_MKoX9M"
 		},
 		{
 			"id": 16,
-			"name": "Цензура, кабала блогеров и накрутки просмотров: рассказываем секреты российского TikTok",
-			"author": "Baza",
-			"link": "https://www.youtube.com/watch?v=rDf_z0A3fhM"
-		},
-		{
-			"id": 17,
-			"name": "Linux Mint 20.1 «Ulyssa»",
-			"author": "Pingvinus",
-			"link": "https://www.youtube.com/watch?v=mzIinmLu1qU"
+			"name": "SAMSUNG GALAXY NOTE 20 — крутой флагман в пластике? / QUKE.RU /",
+			"author": "Traversy Media",
+			"link": "https://www.youtube.com/watch?v=AO8YvlICEpE"
 		}
 	]
 }
