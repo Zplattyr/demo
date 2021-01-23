@@ -2,81 +2,81 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "ВОЛЯ. Этот сюжет поменяет твою жизнь.",
+			"name": "5 Убийц ТВОЕЙ Уверенности в Себе",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=Q6UfTFq4ja0"
+			"link": "https://www.youtube.com/watch?v=UkEoxuAH1YA"
 		},
 		{
 			"id": 2,
-			"name": "Купил игровой ноутбук из Китая – ВЫ НЕ ПОВЕРИТЕ...",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=fQzz4Xpzx-E"
+			"name": "Просто о promise в JavaScript",
+			"author": "WebDev с нуля. Канал Алекса Лущенко",
+			"link": "https://www.youtube.com/watch?v=Sr0WT-XHwd0"
 		},
 		{
 			"id": 3,
-			"name": "КАК УДАЛИТЬ ВИРУС - {ВИРУСОЛОГИЯ}",
-			"author": "overbafer1",
-			"link": "https://www.youtube.com/watch?v=gnQ2lrtJewU"
+			"name": "Дмитрий Портнягин. Интервью Евгения Черняка в прямом эфире | Big Money",
+			"author": "Big Money",
+			"link": "https://www.youtube.com/watch?v=4K5cgz3wYOs"
 		},
 		{
 			"id": 4,
-			"name": "Самая УГАРНАЯ игровая афера года",
-			"author": "Культас ЖИВЬЕМ",
-			"link": "https://www.youtube.com/watch?v=Z1xQYuFT9jQ"
+			"name": "Эндрю Соломон: Депрессия — наша общая тайна",
+			"author": "TED",
+			"link": "https://www.youtube.com/watch?v=-eBUcBfkVCo"
 		},
 		{
 			"id": 5,
-			"name": "Webpack 4. Полный курс 2020",
-			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=eSaF8NXeNsA"
+			"name": "Как купить физическое золото и где его хранить?",
+			"author": "Ramy Zaycman",
+			"link": "https://www.youtube.com/watch?v=XtrnV6ZHEm0"
 		},
 		{
 			"id": 6,
-			"name": "Когда ждать «дно». Баксы по 80 р. На что жить в старости. Незаконное обогащение.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=PlLSbqeNTHQ"
+			"name": "Изучение Java в одном видео уроке за час!",
+			"author": "Гоша Дударь",
+			"link": "https://www.youtube.com/watch?v=pCJsAzWecbk"
 		},
 		{
 			"id": 7,
-			"name": "Правило двух дней. Как я победил лень (Мэтт Давелла на русском)",
-			"author": "Озвучка американских блогеров",
-			"link": "https://www.youtube.com/watch?v=YkAQoPgCobY"
+			"name": "САМЫЙ БОГАТЫЙ ЧЕЛОВЕК ВСЕХ ВРЕМЕН И НАРОДОВ",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=hIlBdaIWcT4"
 		},
 		{
 			"id": 8,
-			"name": "Mobbed by Raccoons (25) Tuesday Night 03 Nov 2020",
-			"author": "James Blackwood - Raccoon Whisperer",
-			"link": "https://www.youtube.com/watch?v=Ofp26_oc4CA"
+			"name": "Вячеслав Бутусов & Орден Славы - Идиот",
+			"author": "Butusov",
+			"link": "https://www.youtube.com/watch?v=mvK7EcuptiY"
 		},
 		{
 			"id": 9,
-			"name": "Kerbal Space Program Гайд - Как в это играть? Как летать к другим планетам",
-			"author": "Видео от SoLiD'a",
-			"link": "https://www.youtube.com/watch?v=f1mCb1I0SAE"
+			"name": "Созданный в Бездне. Чем глубже, тем лучше [Обзор аниме]",
+			"author": "AgnamoN",
+			"link": "https://www.youtube.com/watch?v=WMCYoIa4BFY"
 		},
 		{
 			"id": 10,
-			"name": "Великая Депрессия в США (экономическая история)",
-			"author": "Redroom",
-			"link": "https://www.youtube.com/watch?v=rHcAqqD5DLk"
+			"name": "City-Builder Devlog: A Fresh Start",
+			"author": "ThinMatrix",
+			"link": "https://www.youtube.com/watch?v=Q1oV6sgLBHg"
 		},
 		{
 			"id": 11,
-			"name": "КОРОТКО О НАВАЛЬНОМ: КИРОВЛЕС, ИВ РОШЕ, ДОНАТЫ | FURYDROPS",
-			"author": "FURYDROPS",
-			"link": "https://www.youtube.com/watch?v=l9Mm5iQMP7s"
+			"name": "РУКИ ПРОЧЬ ОТ JAVASCRIPT",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=5ATSqKSWmB8"
 		},
 		{
 			"id": 12,
-			"name": "В мире животных №1.Зашквар Reebok, Рыбка Дерипаско, Сломанные Ребра Гуфа, уфимские жлобы",
+			"name": "ТОП-10 Способов ПОТЕРЯТЬ все Деньги.",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=cgG_4u1SOa8"
+			"link": "https://www.youtube.com/watch?v=I4ZTiit02zw"
 		},
 		{
 			"id": 13,
-			"name": "Извините за просвещение, я не специально",
-			"author": "Ёжик Лисичкин",
-			"link": "https://www.youtube.com/watch?v=iSAM4rCD7Lo"
+			"name": "АЗЫ МАТЕМАТИЧЕСКОГО АНАЛИЗА Лекция №1 Пределы . Производная и её применение.",
+			"author": "БОРИС БОЯРШИНОВ СО ДНА РОССИЙСКОЙ НАУКИ",
+			"link": "https://www.youtube.com/watch?v=YgCyy0U5lzM"
 		},
 		{
 			"id": 14,
@@ -86,33 +86,33 @@
 		},
 		{
 			"id": 15,
-			"name": "АЗЫ МАТЕМАТИЧЕСКОГО АНАЛИЗА Лекция №1 Пределы . Производная и её применение.",
-			"author": "БОРИС БОЯРШИНОВ СО ДНА РОССИЙСКОЙ НАУКИ",
-			"link": "https://www.youtube.com/watch?v=YgCyy0U5lzM"
+			"name": "Приметы и СУЕВЕРИЯ",
+			"author": "Artur Sharifov",
+			"link": "https://www.youtube.com/watch?v=qnge8AjMDsc"
 		},
 		{
 			"id": 16,
-			"name": "В гости к Робинсонам - забытый шедевр?",
-			"author": "HIMA",
-			"link": "https://www.youtube.com/watch?v=eThdy-HgFFY&t=15s"
+			"name": "Без этого жизни на Земле не было бы / Космос",
+			"author": "Космос Просто",
+			"link": "https://www.youtube.com/watch?v=N15iDGI-XK0"
 		},
 		{
 			"id": 17,
-			"name": "20 причин, почему Telegram — лучший мессенджер!",
-			"author": "BIG GEEK",
-			"link": "https://www.youtube.com/watch?v=AJFBT4JwnQY"
+			"name": "KSP: I changed my mind about ion engines...",
+			"author": "Matt Lowne",
+			"link": "https://www.youtube.com/watch?v=-opLu2yFHLM"
 		},
 		{
 			"id": 18,
-			"name": "Учим PHP за 1 Час! ► Часть 2 ► Работа с СУБД #От Профессионала",
-			"author": "Хауди Хо™ - Просто о мире IT!",
-			"link": "https://www.youtube.com/watch?v=vJRL_MKoX9M"
+			"name": "Стас Ай Как Просто уничтожает Немагию и Продюсера Иванова",
+			"author": "Плохой Подкаст",
+			"link": "https://www.youtube.com/watch?v=vEAEZYV_QBM"
 		},
 		{
 			"id": 19,
-			"name": "4K HDR Snowy Village River - Winter Stream - Flowing Water - Sounds for Sleeping - White Noise - 10h",
-			"author": "TheSilentWatcher",
-			"link": "https://www.youtube.com/watch?v=M1nkuavHI0g"
+			"name": "Как делают ядерные реакторы? Завод 'АтомМаш' с МШ.",
+			"author": "urbanturizm",
+			"link": "https://www.youtube.com/watch?v=bAcbWc1aA10"
 		}
 	]
 }
