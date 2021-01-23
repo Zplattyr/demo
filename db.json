@@ -1,1 +1,118 @@
-C:\Users\aleks\OneDrive\Рабочий стол\abukb\forms\деньги\youtube.exe
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Акции Cisco: стоит ли инвестировать? Анализ акций, дивиденды и перспективы бизнеса / Распаковка",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=P6kjrJTQg4M"
+		},
+		{
+			"id": 2,
+			"name": "Я хочу уродские РУКИ-БАЗУКИ! Кирилл Терешин и его «слажный путь» к 900 000 руб. в месяц.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=iELEFn-Uhy0"
+		},
+		{
+			"id": 3,
+			"name": "Путинское побоище на Пушкинской",
+			"author": "Штаб Навального",
+			"link": "https://www.youtube.com/watch?v=KYtiiAB0yzo"
+		},
+		{
+			"id": 4,
+			"name": "Какие вопросы задают на собеседовании по JavaScript. Часть 1 | in IT Academy",
+			"author": "IN IT",
+			"link": "https://www.youtube.com/watch?v=Wbg1Iyx1cNQ"
+		},
+		{
+			"id": 5,
+			"name": "ЗАЧЕМ ЭКРАНУ 300 Гц?",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=nztsg9ulRSg"
+		},
+		{
+			"id": 6,
+			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
+			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
+			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
+		},
+		{
+			"id": 7,
+			"name": "Как выучить Python? Самый аху#### способ!",
+			"author": "Хауди Хо™ - Просто о мире IT!",
+			"link": "https://www.youtube.com/watch?v=0a2a7dXJYXM"
+		},
+		{
+			"id": 8,
+			"name": "Чему я Научился у Профессора Савельева.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=bRNNEWCtUYM"
+		},
+		{
+			"id": 9,
+			"name": "Протокол HTTP | Курс Компьютерные сети",
+			"author": "Andrey Sozykin",
+			"link": "https://www.youtube.com/watch?v=RlccXUx4LVw"
+		},
+		{
+			"id": 10,
+			"name": "ゆず湯を楽しむフクロウ",
+			"author": "木村英俊",
+			"link": "https://www.youtube.com/watch?v=7hcJAyRuyZ0"
+		},
+		{
+			"id": 11,
+			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
+		},
+		{
+			"id": 12,
+			"name": "Postman Mock Server (Latest 2020) || postman mock API response",
+			"author": "Tecno-Tab",
+			"link": "https://www.youtube.com/watch?v=nTIpTmUecUI"
+		},
+		{
+			"id": 13,
+			"name": "Без этого жизни на Земле не было бы / Космос",
+			"author": "Космос Просто",
+			"link": "https://www.youtube.com/watch?v=N15iDGI-XK0"
+		},
+		{
+			"id": 14,
+			"name": "Глава NASA УВОЛИЛСЯ, Неудачный тест SLS, Самый далёкий квазар: КосмоДайджест#95",
+			"author": "Alpha Centauri",
+			"link": "https://www.youtube.com/watch?v=11yXh0VxnPg"
+		},
+		{
+			"id": 15,
+			"name": "Kerbal Space Program 2 Cinematic Announce Trailer",
+			"author": "Kerbal Space Program",
+			"link": "https://www.youtube.com/watch?v=P_nj6wW6Gsc&t=2s"
+		},
+		{
+			"id": 16,
+			"name": "Как Поднять Бабла НЕ выходя Из Дома в 2019.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=FZ04XMUSHtk"
+		},
+		{
+			"id": 17,
+			"name": "ДИКИЙ УЖАС НА СЕВЕРНОМ ПОЛЮСЕ / Выжить в АДУ",
+			"author": "GEO",
+			"link": "https://www.youtube.com/watch?v=Uy3CvVFx4xc"
+		},
+		{
+			"id": 18,
+			"name": "Это худший смартфон в истории человечества!",
+			"author": "Ай, Как Просто!",
+			"link": "https://www.youtube.com/watch?v=ybR_f5uII4Y"
+		},
+		{
+			"id": 19,
+			"name": "Кремниевые Титаны #33: Adobe Flash",
+			"author": "Дмитрий Бачило",
+			"link": "https://www.youtube.com/watch?v=n36SBtx0-rU"
+		}
+	]
+}
