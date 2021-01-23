@@ -2,105 +2,105 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "ВАСЯ ИДЕТ НАХЕР. Рабочая митодиГа личностного Роста.",
+			"name": "ЧЕРНЫЕ СХЕМЫ С БАБЛОМ: Почему у них МОЮТ, а у нас ОБНАЛЯТ.",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=ln1hgREpLAE"
+			"link": "https://www.youtube.com/watch?v=pdkohPoSb6U"
 		},
 		{
 			"id": 2,
-			"name": "Angular In 60 Minutes",
-			"author": "Traversy Media",
-			"link": "https://www.youtube.com/watch?v=KhzGSHNhnbI"
+			"name": "РЕВОЛЮЦИОННЫЙ LAKEFIELD – ГВОЗЬ В ГРОБ INTEL ИЛИ ПОБЕДА НАД AMD? – Кремниевые секреты",
+			"author": "Ай, Как Просто!",
+			"link": "https://www.youtube.com/watch?v=orAs9p0edgw"
 		},
 		{
 			"id": 3,
-			"name": "Два месяца с iPhone 12 – ВСЯ ПРАВДА О ПОСРЕДСТВЕННОСТИ",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=dCdudf23oxc"
+			"name": "КАК УСТРАНЯЮТ КОНКУРЕНТОВ",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=7XHpZnpFbnA&t=7s"
 		},
 		{
 			"id": 4,
-			"name": "Рубль снова падает. Что дальше? Фондовый рынок и валюта / Тренды недели",
-			"author": "InvestFuture",
-			"link": "https://www.youtube.com/watch?v=Va-XRmTTKrE"
+			"name": "Group theory and the 196,883-dimensional monster",
+			"author": "3Blue1Brown",
+			"link": "https://www.youtube.com/watch?v=mH0oCDa74tE"
 		},
 		{
 			"id": 5,
-			"name": "ES6, ES7, ES8 - ВСЕ НОВОВВЕДЕНИЯ В JAVASCRIPT",
-			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=Ti2Q4sQkNdU"
+			"name": "Тестовое собеседование Java разработчика #16 - Павел Хшановский",
+			"author": "Eugene Suleimanov",
+			"link": "https://www.youtube.com/watch?v=CS69TAO8nVw"
 		},
 		{
 			"id": 6,
-			"name": "Как FOREX поломал Жизнь Моему Отцу.",
+			"name": "Самая ПОЛЕЗНАЯ привычка XXI века.",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=HmAN880CFjE"
+			"link": "https://www.youtube.com/watch?v=LRlDtNMyNFg"
 		},
 		{
 			"id": 7,
-			"name": "Навальный. Протесты. 23 января / Спецэфир Дождя",
-			"author": "Телеканал Дождь",
-			"link": "https://www.youtube.com/watch?v=7-rkmvV9zKE"
+			"name": "RESTful API With PHP & MySQL",
+			"author": "Traversy Media",
+			"link": "https://www.youtube.com/watch?v=DHUxnUX7Y2Y"
 		},
 		{
 			"id": 8,
-			"name": "Большой куш, Гай Ричи, сессия (Переозвучка)",
-			"author": "TheNafig",
-			"link": "https://www.youtube.com/watch?v=1KMF6Vj0qq0"
+			"name": "Дмитрий Портнягин. Интервью Евгения Черняка в прямом эфире | Big Money",
+			"author": "Big Money",
+			"link": "https://www.youtube.com/watch?v=4K5cgz3wYOs"
 		},
 		{
 			"id": 9,
-			"name": "Учёные преодолели «СУМЕРЕЧНУЮ ЗОНУ СОЗНАНИЯ» | Пушка",
-			"author": "SciOne",
-			"link": "https://www.youtube.com/watch?v=WkM4YwxPmoc"
+			"name": "НОВЫЙ ДИЗАЙН WINDOWS 10 // ОТЕЦ ANDROID // ДЕЛИВЕРИ КЛАБ ДОМОГАЮТСЯ // ЯНДЕКС МУЗЕЙ",
+			"author": "iKakProsto2",
+			"link": "https://www.youtube.com/watch?v=Ne01uKtHyc4"
 		},
 		{
 			"id": 10,
-			"name": "ТОП-9 МЕРЗКИХ ЗАШКВАРОВ которые Компании Скрывают От Тебя.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=VJEggqbojCU&t=87s"
-		},
-		{
-			"id": 11,
-			"name": "ОБЗОР Galaxy S21 Ultra: О ЧЕМ НЕ РАССКАЗАЛИ?",
-			"author": "Droider.Ru",
-			"link": "https://www.youtube.com/watch?v=NW8RLwFL83A"
-		},
-		{
-			"id": 12,
-			"name": "ТУТОРИАЛ №1. Где Хранить и Как купить БИТКОИН в 2019.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=lwtYY6obZd0"
-		},
-		{
-			"id": 13,
 			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
 			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
 			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
 		},
 		{
-			"id": 14,
-			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
-			"author": "Простая Академия",
-			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
+			"id": 11,
+			"name": "Чему я Научился у Роберта Кийосаки. Книга «Богатый Папа Бедный Папа».",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=X1m3QyVR1gw"
 		},
 		{
-			"id": 15,
-			"name": "Кремниевые Титаны #33: Adobe Flash",
-			"author": "Дмитрий Бачило",
-			"link": "https://www.youtube.com/watch?v=n36SBtx0-rU"
+			"id": 12,
+			"name": "Сделай дело. Снова! Но сначала заскучай.",
+			"author": "Хулиномика",
+			"link": "https://www.youtube.com/watch?v=chLnTTLfL3k"
 		},
 		{
-			"id": 16,
+			"id": 13,
 			"name": "Топ-10 акций роста / Куда вложить деньги в 2021 году. LIVE",
 			"author": "Деньги не спят",
 			"link": "https://www.youtube.com/watch?v=aJ59Yr3CjIU"
 		},
 		{
+			"id": 14,
+			"name": "КОНЬ БОДЖЕК - БОЛЬ, ДЕПРЕССИЯ И АЛКОГОЛЬ! / Обзор самого дерзкого сериала (Ещё по одной?)",
+			"author": "ЧЕРНЫЙ КАБИНЕТ",
+			"link": "https://www.youtube.com/watch?v=UrBxT6Ahl1o"
+		},
+		{
+			"id": 15,
+			"name": "ЗАЧЕМ ЭКРАНУ 300 Гц?",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=nztsg9ulRSg"
+		},
+		{
+			"id": 16,
+			"name": "Как выучить Python? Самый аху#### способ!",
+			"author": "Хауди Хо™ - Просто о мире IT!",
+			"link": "https://www.youtube.com/watch?v=0a2a7dXJYXM"
+		},
+		{
 			"id": 17,
-			"name": "Извините за просвещение, я не специально",
-			"author": "Ёжик Лисичкин",
-			"link": "https://www.youtube.com/watch?v=iSAM4rCD7Lo"
+			"name": "Цикады не плачут: CICADA 3301. Часть 1",
+			"author": "FlynnFlyTaggart",
+			"link": "https://www.youtube.com/watch?v=w5XlQk41AUg"
 		}
 	]
 }
