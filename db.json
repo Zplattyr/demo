@@ -2,81 +2,81 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "Эти 3 МАТЕРНЫЕ Фразы Нужно Говорить Вместо "НЕ ПЕРЕЖИВАЙ"",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=wpspBa5hFx0"
+			"name": "Образование в Чехии. Как потерять деньги и год жизни?",
+			"author": "Игорь Линк",
+			"link": "https://www.youtube.com/watch?v=c7JA3fxLjUo"
 		},
 		{
 			"id": 2,
-			"name": "КАК САМОМУ СДЕЛАТЬ ОПЕРАЦИОННУЮ СИСТЕМУ?",
-			"author": "iKakProsto2",
-			"link": "https://www.youtube.com/watch?v=wLDbVM18MQI"
+			"name": "Бытовой Торчок. ДЕНЬГИ 2.0",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=aQHupYegcSM"
 		},
 		{
 			"id": 3,
-			"name": "VSauce: Иллюзия лунного терминатора",
-			"author": "VoicePower",
-			"link": "https://www.youtube.com/watch?v=B5zSCoTHkRY"
+			"name": "Лжецелитель Аркадий Петров: исцеление, восстановление органов и воскрешение (МРАКОБЕСИЕ #3)",
+			"author": "Дмитрий Костин",
+			"link": "https://www.youtube.com/watch?v=kdhdwde1U6w"
 		},
 		{
 			"id": 4,
-			"name": "69 ПОПЫТОК ПРОЙТИ НЕУДАЧНЫЕ СОХРАНЕНИЯ В ЧЁРНОЙ МЕЗЕ",
-			"author": "Manemag",
-			"link": "https://www.youtube.com/watch?v=fNvyuSXNJV8"
+			"name": "Подготовка к JavaScript собеседованию",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=M_pclb-58ZY"
 		},
 		{
 			"id": 5,
-			"name": "Урок 10. JavaScript. Proxy. Примеры. Часть 2",
-			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=mSbyhHfxs04"
+			"name": "ХОЧЕШЬ? - ДЕЛАЙ!!! (Денис борисов)",
+			"author": "PERFECT PHYSIQUE",
+			"link": "https://www.youtube.com/watch?v=euarhVpUo2g"
 		},
 		{
 			"id": 6,
-			"name": "ВЗЛОМАЛ ДВЕРНОЙ ЗВОНОК ! СОСЕДИ В ШОКЕ !!!",
-			"author": "overbafer1",
-			"link": "https://www.youtube.com/watch?v=dBJYFzIe2so"
+			"name": "САМЫЕ ЗАХВАТЫВАЮЩИЕ КНИГИ📖Книги, от которых невозможно оторваться",
+			"author": "MyBook",
+			"link": "https://www.youtube.com/watch?v=UFfvBnJ-QtY"
 		},
 		{
 			"id": 7,
-			"name": "Банки газировки с сахаром. Плавают или тонут?",
-			"author": "Макар Светлый",
-			"link": "https://www.youtube.com/watch?v=6fTzPKRG_o4"
-		},
-		{
-			"id": 8,
-			"name": "B2B Jewelry больше не платит, но создает СКАМ токен / Limpid Capital: инвесторы бегут с проекта",
-			"author": "Дмитрий Костин",
-			"link": "https://www.youtube.com/watch?v=1BcRTC4PUdA&t=427s"
-		},
-		{
-			"id": 9,
 			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
 			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
 			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
 		},
 		{
-			"id": 10,
-			"name": "ЭТО ДЕЛАЮТ ТОЛЬКО 2% ЛЮДЕЙ. Видео, которое перевернет твое сознание.",
+			"id": 8,
+			"name": "Стальной Гигант, или как Голливуд снова все испортил",
+			"author": "Культас",
+			"link": "https://www.youtube.com/watch?v=i1hemy6LLWw"
+		},
+		{
+			"id": 9,
+			"name": "О Чем Никогда НЕ расскажет Бизнес-Тренер",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=GlS2l7j9lW4&t=707s"
+			"link": "https://www.youtube.com/watch?v=PPfn5GS6beQ"
+		},
+		{
+			"id": 10,
+			"name": "ЛЮБЛЮ ЭКРАН СМЕРТИ или КУПИЛ КОМПЬЮТЕР НА ALIEXPRESS - МИСТИЧЕСКИЙ ПК и BSOD",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=pJKrf_VKHqY"
 		},
 		{
 			"id": 11,
-			"name": "История Elon Musk - 3D анимация",
-			"author": "Andy Front",
-			"link": "https://www.youtube.com/watch?v=8Hoe9by0wNc"
+			"name": "Как делаются деньги. Когда доллар по 100 руб. Зачем нам грязные зеленые бумажки.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=Qv1kwLKdMAs&t=39s"
 		},
 		{
 			"id": 12,
-			"name": "РУКИ ПРОЧЬ ОТ JAVASCRIPT",
-			"author": "ExtremeCode",
-			"link": "https://www.youtube.com/watch?v=5ATSqKSWmB8"
+			"name": "Цикады не плачут: CICADA 3301. Часть 1",
+			"author": "FlynnFlyTaggart",
+			"link": "https://www.youtube.com/watch?v=w5XlQk41AUg"
 		},
 		{
 			"id": 13,
-			"name": "Приметы и СУЕВЕРИЯ",
-			"author": "Artur Sharifov",
-			"link": "https://www.youtube.com/watch?v=qnge8AjMDsc"
+			"name": "Кремниевые Титаны #33: Adobe Flash",
+			"author": "Дмитрий Бачило",
+			"link": "https://www.youtube.com/watch?v=n36SBtx0-rU"
 		},
 		{
 			"id": 14,
@@ -86,21 +86,21 @@
 		},
 		{
 			"id": 15,
-			"name": "Бытовой Торчок. ДЕНЬГИ 2.0",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=aQHupYegcSM"
+			"name": "Дефицит автомобилей, одуревшие дилеры – а виной всему потребительская электроника.",
+			"author": "PRO Hi-Tech",
+			"link": "https://www.youtube.com/watch?v=-KlwGvFhQWk"
 		},
 		{
 			"id": 16,
-			"name": "Цикады не плачут: CICADA 3301. Часть 1",
-			"author": "FlynnFlyTaggart",
-			"link": "https://www.youtube.com/watch?v=w5XlQk41AUg"
-		},
-		{
-			"id": 17,
 			"name": "HTML и CSS с нуля для начинающих | 🔥 Быстрый Старт!",
 			"author": "BrainsCloud",
 			"link": "https://www.youtube.com/watch?v=CvEttNvty0U"
+		},
+		{
+			"id": 17,
+			"name": "Большой куш, Гай Ричи, сессия (Переозвучка)",
+			"author": "TheNafig",
+			"link": "https://www.youtube.com/watch?v=1KMF6Vj0qq0"
 		}
 	]
 }
