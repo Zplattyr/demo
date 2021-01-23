@@ -2,99 +2,111 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "ТОП-8 Стран, Куда ВАЛИТЬ Из России в 2019.",
+			"name": "В МЖ №2. Бой Тарасов VS Дацик, Севастопольская Резня, Налог на Воду, Чебурнет близок",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=DtREbD-7r9E"
+			"link": "https://www.youtube.com/watch?v=c5zjnyozHag"
 		},
 		{
 			"id": 2,
-			"name": "RESTful API With PHP & MySQL",
-			"author": "Traversy Media",
-			"link": "https://www.youtube.com/watch?v=DHUxnUX7Y2Y"
+			"name": "Kerbal Space Program Гайд - Как в это играть? Как летать к другим планетам",
+			"author": "Видео от SoLiD'a",
+			"link": "https://www.youtube.com/watch?v=f1mCb1I0SAE"
 		},
 		{
 			"id": 3,
-			"name": "Elon Musk - Gangsta's Paradise [SPACEX] - Motivational Video",
-			"author": "Elon Musk",
-			"link": "https://www.youtube.com/watch?v=Dr_CoOQCf3k"
+			"name": "Удивительные примеры логики",
+			"author": "Блог Торвальда",
+			"link": "https://www.youtube.com/watch?v=z5-EEkgnvAY"
 		},
 		{
 			"id": 4,
-			"name": "ЗАЧЕМ ЭКРАНУ 300 Гц?",
-			"author": "Droider.Ru",
-			"link": "https://www.youtube.com/watch?v=nztsg9ulRSg"
-		},
-		{
-			"id": 5,
-			"name": "Бхопал, Индия - Мудреныч (История на пальцах)",
-			"author": "Мудреныч",
-			"link": "https://www.youtube.com/watch?v=2eTX64hHbR0"
-		},
-		{
-			"id": 6,
-			"name": "Чему я Научился у Роберта Кийосаки. Книга «Богатый Папа Бедный Папа».",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=X1m3QyVR1gw"
-		},
-		{
-			"id": 7,
-			"name": "This Video Is Sponsored By ███ VPN",
-			"author": "Tom Scott",
-			"link": "https://www.youtube.com/watch?v=WVDQEoe6ZWY"
-		},
-		{
-			"id": 8,
-			"name": "Python как сделать красивую программу под ПК за 10 минут?",
-			"author": "Хауди Хо™ - Просто о мире IT!",
-			"link": "https://www.youtube.com/watch?v=Gon0MvppfF8"
-		},
-		{
-			"id": 9,
-			"name": "Voyager",
-			"author": "Guy Collins Animation",
-			"link": "https://www.youtube.com/watch?v=BwcJXUWXMTI"
-		},
-		{
-			"id": 10,
-			"name": "Дмитрий Портнягин. Интервью Евгения Черняка в прямом эфире | Big Money",
-			"author": "Big Money",
-			"link": "https://www.youtube.com/watch?v=4K5cgz3wYOs"
-		},
-		{
-			"id": 11,
-			"name": "Самая ПОЛЕЗНАЯ привычка XXI века.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=LRlDtNMyNFg"
-		},
-		{
-			"id": 12,
 			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
 			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
 			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
 		},
 		{
+			"id": 5,
+			"name": "Евгений Черняк. Лучшее — Бизнес Будущего-2018",
+			"author": "Про бизнес",
+			"link": "https://www.youtube.com/watch?v=dnht-AuEj1E"
+		},
+		{
+			"id": 6,
+			"name": "ЭТО ДЕЛАЮТ ТОЛЬКО 2% ЛЮДЕЙ. Видео, которое перевернет твое сознание.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=GlS2l7j9lW4&t=707s"
+		},
+		{
+			"id": 7,
+			"name": "Нетология и ее курсы - обзор и отзыв на онлайн школы",
+			"author": "Сашкинс",
+			"link": "https://www.youtube.com/watch?v=ZGfB5kRKr_4"
+		},
+		{
+			"id": 8,
+			"name": "ЗВЁЗДНАЯ ПРИНЦЕССА И ОБЗОР ВТОРОГО СЕЗОНА",
+			"author": "Штаб Коммандера",
+			"link": "https://www.youtube.com/watch?v=rZrzCs2K_Io"
+		},
+		{
+			"id": 9,
+			"name": "Как я доехал до края земли и поломался.",
+			"author": "Антон Птушкин",
+			"link": "https://www.youtube.com/watch?v=mV1KnQe5egM"
+		},
+		{
+			"id": 10,
+			"name": "Когда уже лопнет фондовый пузырь США?",
+			"author": "Ramy Zaycman",
+			"link": "https://www.youtube.com/watch?v=o22i16KvO_g"
+		},
+		{
+			"id": 11,
+			"name": "Where Do Deleted Files Go?",
+			"author": "Vsauce",
+			"link": "https://www.youtube.com/watch?v=G5s4-Kak49o"
+		},
+		{
+			"id": 12,
+			"name": "React + NodeJS Сайт за 3 часа с нуля",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=ivDjWYcKDZI"
+		},
+		{
 			"id": 13,
+			"name": "Сделай дело. Снова! Но сначала заскучай.",
+			"author": "Хулиномика",
+			"link": "https://www.youtube.com/watch?v=chLnTTLfL3k"
+		},
+		{
+			"id": 14,
 			"name": "Без этого жизни на Земле не было бы / Космос",
 			"author": "Космос Просто",
 			"link": "https://www.youtube.com/watch?v=N15iDGI-XK0"
 		},
 		{
-			"id": 14,
-			"name": "Топ-10 акций роста / Куда вложить деньги в 2021 году. LIVE",
-			"author": "Деньги не спят",
-			"link": "https://www.youtube.com/watch?v=aJ59Yr3CjIU"
-		},
-		{
 			"id": 15,
-			"name": "Безграничная память. Как запоминать информацию",
-			"author": "Простая Академия",
-			"link": "https://www.youtube.com/watch?v=diEkFaHklJ0"
+			"name": "ТОП-8 Стран, Куда ВАЛИТЬ Из России в 2019.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=DtREbD-7r9E"
 		},
 		{
 			"id": 16,
-			"name": "Intel Core i3, Core i5 и Core i7 понятным языком.",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=MEizxb1zO0w"
+			"name": "Winning Google Kickstart Round C 2020",
+			"author": "William Lin",
+			"link": "https://www.youtube.com/watch?v=oY0PBQt36YM"
+		},
+		{
+			"id": 17,
+			"name": "ЗАЧЕМ ЭКРАНУ 300 Гц?",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=nztsg9ulRSg"
+		},
+		{
+			"id": 18,
+			"name": "Дебаты Лоуренса Краусса и Хамзы Тзортзиса на тему «Ислам или Атеизм: в чем больше смысла?»",
+			"author": "Vert Dider",
+			"link": "https://www.youtube.com/watch?v=fCjw_2jB71I"
 		}
 	]
 }
