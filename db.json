@@ -2,117 +2,105 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "Куда инвестировать первые деньги под 20% ! Мой опыт инвестирования.",
+			"name": "Мы знаем, кто ты. Тифозная Мэри. Судьба ЛГБТ. Он обнулялся 8 раз. Учителя все испортили.",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=7tGPRuapaso"
+			"link": "https://www.youtube.com/watch?v=Fa7-qW15F_U"
 		},
 		{
 			"id": 2,
-			"name": "Дуров и Telegram, что такое DuckDuckGo? Цены на видеокарты, про Galaxy S21 Ultra и про AirPods Max",
-			"author": "О Чём Речь",
-			"link": "https://www.youtube.com/watch?v=qE2bn1nhYFk"
+			"name": "10 Советов новичкам в Python",
+			"author": "Хауди Хо™ - Просто о мире IT!",
+			"link": "https://www.youtube.com/watch?v=i3wfWe9Dev0"
 		},
 		{
 			"id": 3,
-			"name": "Самые крутые нейросети которые можно опробовать уже сейчас!",
-			"author": "stupidmadworld",
-			"link": "https://www.youtube.com/watch?v=su-x3CDUNus"
+			"name": "// ПСИХОПАТ WYLSACOM ЗАКРЫВАЕТ СТАС КОММЕНТАТОР, ПРОЩАЙТЕ",
+			"author": "СТАС",
+			"link": "https://www.youtube.com/watch?v=l0I8bRRzppQ"
 		},
 		{
 			"id": 4,
-			"name": "KERBOL 0 | 100% Stock Low Solar Artificial Gravity Station | KSP 1.6",
-			"author": "Stratzenblitz75",
-			"link": "https://www.youtube.com/watch?v=i60SXLaLI48"
+			"name": "Падал прошлогодний снег (1983) Пластилиновый мультик | Золотая коллекция",
+			"author": "Русские мультфильмы",
+			"link": "https://www.youtube.com/watch?v=DwJznO6SqyM"
 		},
 		{
 			"id": 5,
-			"name": "Тренировки каждый день или через день. Что для здоровья полезней.",
-			"author": "doctorpetrik",
-			"link": "https://www.youtube.com/watch?v=WAMx-1RuzK8"
+			"name": "Глубокое программирование музыки - Навыки программирования - Ночная работа Chillstep",
+			"author": "Music Lab",
+			"link": "https://www.youtube.com/watch?v=FuaQ1QhJOkc"
 		},
 		{
 			"id": 6,
-			"name": "ЛОВУШКА ГАННИБАЛА 2021. СХЕМАТОЗ ИЗ КИТАЯ. БАНКИ ТЕБЯ СОЛЬЮТ. ЛЮДИ НЕ НУЖНЫ.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=tnCUFgZWPGk&t=5s"
+			"name": "Binance Futures полная инструкция, как торговать на бирже бинанс фьючерс, скальпинг шорт и трейлинг",
+			"author": "КриптоКот - CryptoCot",
+			"link": "https://www.youtube.com/watch?v=_YuV5nPK_WE"
 		},
 		{
 			"id": 7,
-			"name": "How to mock API using Mockoon",
-			"author": "Automation Step by Step - Raghav Pal",
-			"link": "https://www.youtube.com/watch?v=IM-eY0GiHjc"
+			"name": "В мире животных №1.Зашквар Reebok, Рыбка Дерипаско, Сломанные Ребра Гуфа, уфимские жлобы",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=cgG_4u1SOa8"
 		},
 		{
 			"id": 8,
-			"name": "Banned Doom Remake Looks Better With RTX On",
-			"author": "BasildoomHD",
-			"link": "https://www.youtube.com/watch?v=6r_-ZJjtmKo"
+			"name": "KSP | Crewed Mission to Jupiter | RSS/RO",
+			"author": "Nessus",
+			"link": "https://www.youtube.com/watch?v=9Y6C_LWAGDE"
 		},
 		{
 			"id": 9,
-			"name": "ИЛОН МАСК - Когда ВСЁ Против Тебя",
-			"author": "Lionel Grand",
-			"link": "https://www.youtube.com/watch?v=6RiY1fzu-A8"
-		},
-		{
-			"id": 10,
-			"name": "Урок 7. JavaScript. Все о ES6 Классах (+ Практическое Применение)",
-			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=uLY9GXGMXaA"
-		},
-		{
-			"id": 11,
-			"name": "Stock Price Prediction Using Python & Machine Learning",
-			"author": "Computer Science",
-			"link": "https://www.youtube.com/watch?v=QIUxPv5PJOY"
-		},
-		{
-			"id": 12,
-			"name": "Когда уже лопнет фондовый пузырь США?",
-			"author": "Ramy Zaycman",
-			"link": "https://www.youtube.com/watch?v=o22i16KvO_g"
-		},
-		{
-			"id": 13,
-			"name": "Учим PHP за 1 Час! ► Часть 2 ► Работа с СУБД #От Профессионала",
-			"author": "Хауди Хо™ - Просто о мире IT!",
-			"link": "https://www.youtube.com/watch?v=vJRL_MKoX9M"
-		},
-		{
-			"id": 14,
-			"name": "Извините за просвещение, я не специально",
-			"author": "Ёжик Лисичкин",
-			"link": "https://www.youtube.com/watch?v=iSAM4rCD7Lo"
-		},
-		{
-			"id": 15,
-			"name": "Это худший смартфон в истории человечества!",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=ybR_f5uII4Y"
-		},
-		{
-			"id": 16,
-			"name": "Здоровенная советская пушка? Сейчас пальнем! | Разрушительное ранчо | Перевод Zёбры",
-			"author": "Zёбра",
-			"link": "https://www.youtube.com/watch?v=cJtGQ4coSWY"
-		},
-		{
-			"id": 17,
 			"name": "Без этого жизни на Земле не было бы / Космос",
 			"author": "Космос Просто",
 			"link": "https://www.youtube.com/watch?v=N15iDGI-XK0"
 		},
 		{
-			"id": 18,
-			"name": "Топ-10 акций роста / Куда вложить деньги в 2021 году. LIVE",
-			"author": "Деньги не спят",
-			"link": "https://www.youtube.com/watch?v=aJ59Yr3CjIU"
+			"id": 10,
+			"name": "ПУТИН СПУСТИЛ ВСЕХ СОБАК. Чичваркин Про Расследование и Реакция Властей. Жириновский Про Навального.",
+			"author": "Новости России",
+			"link": "https://www.youtube.com/watch?v=zLeT8kIxcq0"
 		},
 		{
-			"id": 19,
-			"name": "Celera 500L | Яйцо с крыльями или революция в авиации",
-			"author": "SkyShips",
-			"link": "https://www.youtube.com/watch?v=yRMnBN64WZE"
+			"id": 11,
+			"name": "Слив персональных данных покупателей AliExpress",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=S3Esx5ByxSo"
+		},
+		{
+			"id": 12,
+			"name": "Как Легко Получить 160 000 рублей Пассивного Дохода в год.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=3LGBzB5VgII"
+		},
+		{
+			"id": 13,
+			"name": "Новая финансовая пирамида. WWPC. Кэшбэк для идиотов. Вся правда о лохотроне.",
+			"author": "Все Работы Хороши",
+			"link": "https://www.youtube.com/watch?v=JnSBqlewrz8"
+		},
+		{
+			"id": 14,
+			"name": "ЗАЧЕМ ЭКРАНУ 300 Гц?",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=nztsg9ulRSg"
+		},
+		{
+			"id": 15,
+			"name": "Риски по рублю, акциям и дивидендам",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=uCXiO9hzmLo"
+		},
+		{
+			"id": 16,
+			"name": "Доходность 40% годовых. Портфель Зайцмана на 2021.",
+			"author": "Ramy Zaycman",
+			"link": "https://www.youtube.com/watch?v=CxNQYcghg5w"
+		},
+		{
+			"id": 17,
+			"name": "Какой язык программирования учить.",
+			"author": "#SimpleCode",
+			"link": "https://www.youtube.com/watch?v=iwmp65epThY"
 		}
 	]
 }
