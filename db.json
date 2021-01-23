@@ -2,117 +2,105 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "ЧТО НЕ ДЕЛАЮТ МИЛЛИОНЕРЫ",
+			"name": "Чему я Научился у Роберта Кийосаки. Книга «Богатый Папа Бедный Папа».",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=JAA1OQXqtrs"
+			"link": "https://www.youtube.com/watch?v=X1m3QyVR1gw"
 		},
 		{
 			"id": 2,
-			"name": "В чём ты точно разочаруешься ?",
-			"author": "Умный Инвестор - инвестиции и трейдинг",
-			"link": "https://www.youtube.com/watch?v=6bzDpIQ1tKI"
+			"name": "НЕЙРОСЕТЬ своими руками за 10 минут на Python",
+			"author": "Хауди Хо™ - Просто о мире IT!",
+			"link": "https://www.youtube.com/watch?v=WFYxpi3O950"
 		},
 		{
 			"id": 3,
-			"name": "Fetch API Introduction",
-			"author": "Traversy Media",
-			"link": "https://www.youtube.com/watch?v=Oive66jrwBs"
+			"name": "Блогеры мошенники | Мистер Хал и Vika Trap разводят на деньги - ЧЁРНЫЙ СПИСОК #77",
+			"author": "Denis LeadER TV",
+			"link": "https://www.youtube.com/watch?v=Ne7UiEfe30A"
 		},
 		{
 			"id": 4,
-			"name": "Дефицит автомобилей, одуревшие дилеры – а виной всему потребительская электроника.",
-			"author": "PRO Hi-Tech",
-			"link": "https://www.youtube.com/watch?v=-KlwGvFhQWk"
+			"name": "БЕССЛАВНЫЕ УБЛЮДКИ Трудности перевода | Обзор Фильма Inglourious Basterds",
+			"author": "Quentin Translatin",
+			"link": "https://www.youtube.com/watch?v=n1pcsmETUwI"
 		},
 		{
 			"id": 5,
-			"name": "РУКИ ПРОЧЬ ОТ JAVASCRIPT",
-			"author": "ExtremeCode",
-			"link": "https://www.youtube.com/watch?v=5ATSqKSWmB8"
+			"name": "Мы воспринимаем ВРЕМЯ по-разному | Артур Шарифов",
+			"author": "Artur Sharifov",
+			"link": "https://www.youtube.com/watch?v=HnApu_9o4Ao"
 		},
 		{
 			"id": 6,
-			"name": "KSP: Falcon 9 boosted SLS to the moon in RO",
-			"author": "maccollo",
-			"link": "https://www.youtube.com/watch?v=d2200YGSeKM"
+			"name": "ТОП 10 БАГОВ ВКОНТАКТЕ, КОТОРЫЕ НЕ УСТРАНЯТ",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=vN_08oq10S4"
 		},
 		{
 			"id": 7,
-			"name": "НЕ смотри ЭТО, если Ты Трейдер.",
+			"name": "ТОП-8 Стран, Куда ВАЛИТЬ Из России в 2019.",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=nbK19Qkd5C8"
+			"link": "https://www.youtube.com/watch?v=DtREbD-7r9E"
 		},
 		{
 			"id": 8,
-			"name": "15 главных вещей, которые делают бедные люди и не делают богатые",
-			"author": "Советы для Жизни",
-			"link": "https://www.youtube.com/watch?v=w4jo2oRoJH8"
+			"name": "SAMSUNG GALAXY NOTE 20 — крутой флагман в пластике? / QUKE.RU /",
+			"author": "Quke.ru",
+			"link": "https://www.youtube.com/watch?v=AO8YvlICEpE"
 		},
 		{
 			"id": 9,
-			"name": "Гибель фильма Остров доктора Моро",
-			"author": "GreenGrass",
-			"link": "https://www.youtube.com/watch?v=FWTR6joO_cQ"
+			"name": "ИЛОН МАСК - Когда ВСЁ Против Тебя",
+			"author": "Lionel Grand",
+			"link": "https://www.youtube.com/watch?v=6RiY1fzu-A8"
 		},
 		{
 			"id": 10,
-			"name": "Intel Core i3, Core i5 и Core i7 понятным языком.",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=MEizxb1zO0w"
+			"name": "Как Государство Будет Тебя СНОШАТЬ в 2019.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=eeYePFU10ec"
 		},
 		{
 			"id": 11,
-			"name": "ТУТОРИАЛ №1. Где Хранить и Как купить БИТКОИН в 2019.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=lwtYY6obZd0"
+			"name": "Сколько можно заработать на верстке сайта HTML CSS JS | Фриланс",
+			"author": "BrainsCloud",
+			"link": "https://www.youtube.com/watch?v=yShfgJYXdfc"
 		},
 		{
 			"id": 12,
-			"name": "Расстрел средневековых доспехов | Разрушительное ранчо | Перевод Zёбры",
-			"author": "Zёбра",
-			"link": "https://www.youtube.com/watch?v=hLgKiN5syjY"
+			"name": "Beat Saber - The Only Thing They Fear is You - DOOM OST (FullCombo- ExpertPlus)",
+			"author": "Raider Reid",
+			"link": "https://www.youtube.com/watch?v=kFEhxs-HfjI"
 		},
 		{
 			"id": 13,
-			"name": "Конкурентная разведка в Интернете (Андрей Масалович)",
-			"author": "Positive Technologies",
-			"link": "https://www.youtube.com/watch?v=HcwASJCk16k"
+			"name": "Глава NASA УВОЛИЛСЯ, Неудачный тест SLS, Самый далёкий квазар: КосмоДайджест#95",
+			"author": "Alpha Centauri",
+			"link": "https://www.youtube.com/watch?v=11yXh0VxnPg"
 		},
 		{
 			"id": 14,
-			"name": "«Место Путина проклято»: Ходорковский о билете в один конец для Навального и переменах в Кремле",
-			"author": "Телеканал Дождь",
-			"link": "https://www.youtube.com/watch?v=1I8u9Tvn0Dw"
+			"name": "JavaScript Основы для Начинающих - Полный Курс за 6 часов [2020]",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=Bluxbh9CaQ0"
 		},
 		{
 			"id": 15,
-			"name": "Учим PHP за 1 Час! ► Часть 2 ► Работа с СУБД #От Профессионала",
-			"author": "Хауди Хо™ - Просто о мире IT!",
-			"link": "https://www.youtube.com/watch?v=vJRL_MKoX9M"
+			"name": "Страх потерять работу",
+			"author": "S0ER TALKS",
+			"link": "https://www.youtube.com/watch?v=K7Rgpw6noOA"
 		},
 		{
 			"id": 16,
-			"name": "В жопу Apple - это круче!",
-			"author": "iKakProsto2",
-			"link": "https://www.youtube.com/watch?v=w4vq9-vhJ6A"
-		},
-		{
-			"id": 17,
-			"name": "Интервью Илона Маск на конференции Satellite 2020 |На русском| (09.03.2020)",
-			"author": "Илон Маск",
-			"link": "https://www.youtube.com/watch?v=gvcsELHmzgg"
-		},
-		{
-			"id": 18,
 			"name": "Топ-10 акций роста / Куда вложить деньги в 2021 году. LIVE",
 			"author": "Деньги не спят",
 			"link": "https://www.youtube.com/watch?v=aJ59Yr3CjIU"
 		},
 		{
-			"id": 19,
-			"name": "АЗЫ МАТЕМАТИЧЕСКОГО АНАЛИЗА Лекция №1 Пределы . Производная и её применение.",
-			"author": "БОРИС БОЯРШИНОВ СО ДНА РОССИЙСКОЙ НАУКИ",
-			"link": "https://www.youtube.com/watch?v=YgCyy0U5lzM"
+			"id": 17,
+			"name": "Дебаты: Является ли Вселенная «Компьютерной Симуляцией?» Участник и модератор Нил Деграсс Тайсон",
+			"author": "VoicePower",
+			"link": "https://www.youtube.com/watch?v=q6j5TFE_iCk"
 		}
 	]
 }
