@@ -2,21 +2,21 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "Что, если бы вы стали Партизаном на один день?",
-			"author": "Другая История",
-			"link": "https://www.youtube.com/watch?v=srFKY0ISeYU"
+			"name": "8 Вещей, Которые Нужно Знать О Крипте Летом 2018. Деньги 2.0",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=Lr8QbEVw-zc"
 		},
 		{
 			"id": 2,
-			"name": "5 Вещей Которые НЕЛЬЗЯ делать Мужчине.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=nFvLVgaYBdc"
+			"name": "Как я зарабатывал 500к в месяц на JavaScript",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=HZk31lZYmME"
 		},
 		{
 			"id": 3,
-			"name": "УБИЙЦА флагманов ЗА 20 000 РУБЛЕЙ — ЧЕСТНЫЙ ОБЗОР REALME 6 PRO спустя месяц!",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=Oa4LZyKrPyo"
+			"name": "PROFIT BOOM - Финансовая пирамида, притворяющаяся инвестиционным проектом (ИНТЕРНЕТ-ПОМОЙКА #19)",
+			"author": "Дмитрий Костин",
+			"link": "https://www.youtube.com/watch?v=oCJjIgtOL-0"
 		},
 		{
 			"id": 4,
@@ -26,81 +26,93 @@
 		},
 		{
 			"id": 5,
-			"name": "Как выучить Python? Самый аху#### способ!",
-			"author": "Хауди Хо™ - Просто о мире IT!",
-			"link": "https://www.youtube.com/watch?v=0a2a7dXJYXM"
+			"name": "Чему я Научился у Профессора Савельева.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=bRNNEWCtUYM"
 		},
 		{
 			"id": 6,
-			"name": "Информатика. Архитектура ПК: Представление целых чисел в памяти ПК. Центр онлайн-обучения «Фоксфорд»",
-			"author": "Фоксфорд",
-			"link": "https://www.youtube.com/watch?v=g6Y86fAqXEY"
+			"name": "Сколько весит информация?",
+			"author": "Физика от Побединского",
+			"link": "https://www.youtube.com/watch?v=F5x1cO5_awk"
 		},
 		{
 			"id": 7,
-			"name": "МАКРОЭКОНОМИКА №1. Почему Бог НЕ любит Богатых.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=CefAAnZbQOE"
+			"name": "KSP - SINGLE LAUNCH Eeloo Artificial Gravity Station! [10000 sub special]",
+			"author": "Stratzenblitz75",
+			"link": "https://www.youtube.com/watch?v=W4L2sIYR_3M"
 		},
 		{
 			"id": 8,
-			"name": "Звезды шоу-бизнеса, рекламирующие мошенников (ИНТЕРНЕТ-ПОМОЙКА #36)",
-			"author": "Дмитрий Костин",
-			"link": "https://www.youtube.com/watch?v=u_ZIrJ24wcc"
+			"name": "ВСЯ СУТЬ СОВРЕМЕННОГО ОБРАЗОВАНИЯ.",
+			"author": "Рептилоид TV",
+			"link": "https://www.youtube.com/watch?v=hyrwrr1JIIA"
 		},
 		{
 			"id": 9,
-			"name": "Урок 6. JavaScript. Объекты с Object.create. Что такое getters, setters",
-			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=cS6nTVNzOPw"
+			"name": "В мире животных №1.Зашквар Reebok, Рыбка Дерипаско, Сломанные Ребра Гуфа, уфимские жлобы",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=cgG_4u1SOa8"
 		},
 		{
 			"id": 10,
-			"name": "8 Вещей, Которые Нужно Знать О Крипте Летом 2018. Деньги 2.0",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=Lr8QbEVw-zc"
+			"name": "ГРУППОВЫЕ ВИДЕОЗВОНКИ В ТЕЛЕГРАМ. Штрафы соцсетям из-за Навального",
+			"author": "Телеграмер",
+			"link": "https://www.youtube.com/watch?v=FEzQGtU9RNE"
 		},
 		{
 			"id": 11,
-			"name": "Norway 4K - Scenic Relaxation Film with Calming Music",
-			"author": "Scenic Relaxation",
-			"link": "https://www.youtube.com/watch?v=CxwJrzEdw1U"
+			"name": "CYBERPRANK #2 - ДЕРЕВЕНСКИЙ КОМПЬЮТЕРНЫЙ Мастер | Cyberpunk 2077 в реале",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=fz2rcv45cf8&t=27s"
 		},
 		{
 			"id": 12,
-			"name": "Заставьте тех кто ЭТО рекламировал им пользоваться– ЧЕСТНЫЙ ОТЗЫВ о GALAXY A51",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=778D6MH7dQw"
-		},
-		{
-			"id": 13,
-			"name": "Казах полицейский в Нью-Йорке | Kazakh Cop in New York",
-			"author": "kana beisekeyev",
-			"link": "https://www.youtube.com/watch?v=WSkHXTdf9os"
-		},
-		{
-			"id": 14,
-			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
-			"author": "Простая Академия",
-			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
-		},
-		{
-			"id": 15,
 			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
 			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
 			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
 		},
 		{
+			"id": 13,
+			"name": "ИВАН ЯНКОВСКИЙ УГАДЫВАЕТ КАДРЫ, МУЗЫКУ И ЦИТАТЫ ИЗ ФИЛЬМОВ [КИНОБИТВА #3]",
+			"author": "ПОЖАРНАЯ КОМАНДА",
+			"link": "https://www.youtube.com/watch?v=lNYA0ogm-1U"
+		},
+		{
+			"id": 14,
+			"name": "Дебаты: Является ли Вселенная «Компьютерной Симуляцией?» Участник и модератор Нил Деграсс Тайсон",
+			"author": "VoicePower",
+			"link": "https://www.youtube.com/watch?v=q6j5TFE_iCk"
+		},
+		{
+			"id": 15,
+			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
+		},
+		{
 			"id": 16,
-			"name": "Как пройти Cuphead за 20 минут | Разбор спидрана",
-			"author": "Naritsa",
-			"link": "https://www.youtube.com/watch?v=Uv9knWPiFOY"
+			"name": "Huawei Kirin – обман или хорошие процессоры? / Huawei против Apple и Qualcomm!",
+			"author": "Ай, Как Просто!",
+			"link": "https://www.youtube.com/watch?v=8Nxdi421zMw"
 		},
 		{
 			"id": 17,
-			"name": "Падение цен на нефть, отчеты Intel и IBM и ЦБ против структурных продуктов / Новости рынков",
-			"author": "InvestFuture",
-			"link": "https://www.youtube.com/watch?v=7go5kGqQtzM"
+			"name": "Мораль Как Она Есть",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=m5tqn-6xxRY"
+		},
+		{
+			"id": 18,
+			"name": "Глубокое программирование музыки - Навыки программирования - Ночная работа Chillstep",
+			"author": "Music Lab",
+			"link": "https://www.youtube.com/watch?v=FuaQ1QhJOkc"
+		},
+		{
+			"id": 19,
+			"name": "Казах полицейский в Нью-Йорке | Kazakh Cop in New York",
+			"author": "kana beisekeyev",
+			"link": "https://www.youtube.com/watch?v=WSkHXTdf9os"
 		}
 	]
 }
