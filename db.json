@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Будет падать всё: рубль, нефть, золото, акции",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=dMzEAXt71tE"
+		},
+		{
+			"id": 2,
+			"name": "ТОП-8 Стран, Куда ВАЛИТЬ Из России в 2019.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=DtREbD-7r9E"
+		},
+		{
+			"id": 3,
+			"name": "Всё про Node.js / От 0 до 2,5к долларов за год / Интервью с Backend JS Developer",
+			"author": "АйТиБорода",
+			"link": "https://www.youtube.com/watch?v=qQwcCS8K_K0"
+		},
+		{
+			"id": 4,
+			"name": "Тетрадь смерти: ничтожность человеческого существования",
+			"author": "HIMA",
+			"link": "https://www.youtube.com/watch?v=NeDilMNs5NA"
+		},
+		{
+			"id": 5,
+			"name": "KSP: How to unlock the WHOLE tech tree (FULL GUIDE)",
+			"author": "Matt Lowne",
+			"link": "https://www.youtube.com/watch?v=wpfgg05Ve58"
+		},
+		{
+			"id": 6,
+			"name": "«Дворец Путина» | Разбор архитектуры резиденции в Геленджике",
+			"author": "Евгений Урих",
+			"link": "https://www.youtube.com/watch?v=c3L_wA5wJmI"
+		},
+		{
+			"id": 7,
+			"name": "В МЖ №2. Бой Тарасов VS Дацик, Севастопольская Резня, Налог на Воду, Чебурнет близок",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=c5zjnyozHag"
+		},
+		{
+			"id": 8,
+			"name": "КАК ТРАВИЛИ ВЕСЬ МИР? / ЯДОВИТЫЙ ВОЗДУХ / КИТАЙ / ЛЮДИ СТАНОВЯТСЯ ПСИХАМИ [ГЕО ПЛЕНЕТ]",
+			"author": "GEO",
+			"link": "https://www.youtube.com/watch?v=se2w9ZzJJOQ"
+		},
+		{
+			"id": 9,
+			"name": "ЛЮБЛЮ ЭКРАН СМЕРТИ или КУПИЛ КОМПЬЮТЕР НА ALIEXPRESS - МИСТИЧЕСКИЙ ПК и BSOD",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=pJKrf_VKHqY"
+		},
+		{
+			"id": 10,
+			"name": "Build A Simple Android App With Kotlin",
+			"author": "Traversy Media",
+			"link": "https://www.youtube.com/watch?v=BBWyXo-3JGQ"
+		},
+		{
+			"id": 11,
+			"name": "В мире животных №1.Зашквар Reebok, Рыбка Дерипаско, Сломанные Ребра Гуфа, уфимские жлобы",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=cgG_4u1SOa8"
+		},
+		{
+			"id": 12,
+			"name": "Акция 23 января в поддержку Навального. Итоги",
+			"author": "Телеканал Дождь",
+			"link": "https://www.youtube.com/watch?v=3SECESZWQHY"
+		},
+		{
+			"id": 13,
+			"name": "Как стать миллионером. Сложный процент - секрет богатства Баффета",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=rfgLEtacAJg"
+		},
+		{
+			"id": 14,
+			"name": "Два месяца с iPhone 12 – ВСЯ ПРАВДА О ПОСРЕДСТВЕННОСТИ",
+			"author": "Ай, Как Просто!",
+			"link": "https://www.youtube.com/watch?v=dCdudf23oxc"
+		},
+		{
+			"id": 15,
+			"name": "Три богатыря | Все серии подряд | Алеша, Добрыня, Илья | Прямая трансляция",
+			"author": "Три богатыря",
+			"link": "https://www.youtube.com/watch?v=ehClk9_8TBI"
+		},
+		{
+			"id": 16,
+			"name": "Учим Python за 1 час! #От Профессионала",
+			"author": "Хауди Хо™ - Просто о мире IT!",
+			"link": "https://www.youtube.com/watch?v=fp5-XQFr_nk"
+		},
+		{
+			"id": 17,
+			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
+		}
+	]
+}
