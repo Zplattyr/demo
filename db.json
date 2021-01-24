@@ -2,117 +2,105 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "В мире животных №1.Зашквар Reebok, Рыбка Дерипаско, Сломанные Ребра Гуфа, уфимские жлобы",
+			"name": "10 Простых Хитростей для Манипуляции Человеческими Умами…",
 			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=cgG_4u1SOa8"
+			"link": "https://www.youtube.com/watch?v=VzBUxmTpe1U"
 		},
 		{
 			"id": 2,
-			"name": "Заставьте тех кто ЭТО рекламировал им пользоваться– ЧЕСТНЫЙ ОТЗЫВ о GALAXY A51",
-			"author": "Ай, Как Просто!",
-			"link": "https://www.youtube.com/watch?v=778D6MH7dQw"
+			"name": "Тетрадь смерти: ничтожность человеческого существования",
+			"author": "HIMA",
+			"link": "https://www.youtube.com/watch?v=NeDilMNs5NA"
 		},
 		{
 			"id": 3,
-			"name": "КАК УДАЛИТЬ ВИРУС - {ВИРУСОЛОГИЯ}",
-			"author": "overbafer1",
-			"link": "https://www.youtube.com/watch?v=gnQ2lrtJewU"
+			"name": "24/7 Lofi Hip Hop Radio ☁️ beats to relax/study/chill out (No lyrics)",
+			"author": "Dreamhop Music",
+			"link": "https://www.youtube.com/watch?v=KJ5UazhKXC8"
 		},
 		{
 			"id": 4,
-			"name": "Всё про Node.js / От 0 до 2,5к долларов за год / Интервью с Backend JS Developer",
-			"author": "АйТиБорода",
-			"link": "https://www.youtube.com/watch?v=qQwcCS8K_K0"
+			"name": "ИИ собирает Кубик Рубика 55х55 [Перевод Code Bullet]",
+			"author": "Code Wizer",
+			"link": "https://www.youtube.com/watch?v=NSKGKbr1ibg"
 		},
 		{
 			"id": 5,
-			"name": "Наезды и клевета на блогеров-разоблачителей от сомнительных контор: Тяньши, NL, Синергия и Спарта",
-			"author": "Дмитрий Костин",
-			"link": "https://www.youtube.com/watch?v=D_EXd_opz6s"
+			"name": "Схема Подьема 1000-5000 $ / мес. в Москве. Без вложений.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=MktiEDlufEI"
 		},
 		{
 			"id": 6,
+			"name": "0-250k Population Timelapse | Cities: Skylines",
+			"author": "Total Timewaster",
+			"link": "https://www.youtube.com/watch?v=5TfBGZWFPPw"
+		},
+		{
+			"id": 7,
 			"name": "Будет падать всё: рубль, нефть, золото, акции",
 			"author": "Деньги не спят",
 			"link": "https://www.youtube.com/watch?v=dMzEAXt71tE"
 		},
 		{
-			"id": 7,
-			"name": "12 Вещей, Которым я Научился у Илона Маска.",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=nhHQkoC1RTY&t=4s"
-		},
-		{
 			"id": 8,
-			"name": "One Punch Man - Fitness test",
-			"author": "animelab",
-			"link": "https://www.youtube.com/watch?v=x0CJKvevs2M"
+			"name": "Git и GitHub Курс Для Новичков",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=zZBiln_2FhM"
 		},
 		{
 			"id": 9,
-			"name": "Приключения Электроника (1979)",
-			"author": "Золотая коллекция русского кино",
-			"link": "https://www.youtube.com/watch?v=kmKYL7wT5C4"
+			"name": "Как Принцесса и Лягушка убила традиционную анимацию",
+			"author": "Культас",
+			"link": "https://www.youtube.com/watch?v=qBo04YYRoi4"
 		},
 		{
 			"id": 10,
-			"name": "8 Вещей, Которые Нужно Знать О Крипте Летом 2018. Деньги 2.0",
-			"author": "ДЕНЬГИ 2.0",
-			"link": "https://www.youtube.com/watch?v=Lr8QbEVw-zc"
+			"name": "Оскар Хартманн «Просто делай! Делай просто!»",
+			"author": "Alexander Yovenko",
+			"link": "https://www.youtube.com/watch?v=9kEJdl4P5zM"
 		},
 		{
 			"id": 11,
-			"name": "React JS Crash Course 2021",
-			"author": "Traversy Media",
-			"link": "https://www.youtube.com/watch?v=w7ejDZ8SWv8"
+			"name": "ТУТОРИАЛ №2. Как Продать БИТКОИН и Вывести Деньги Из Крипты в РФ и УКР.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=A0CJqhKPNig"
 		},
 		{
 			"id": 12,
-			"name": "Kerbal Space Program 2 Cinematic Announce Trailer",
-			"author": "Kerbal Space Program",
-			"link": "https://www.youtube.com/watch?v=P_nj6wW6Gsc&t=2s"
+			"name": "ХОТЕЛИ ВЗЛОМАТЬ МЕНЯ, А ВЗЛОМАЛИ ДЕНИС ЛИДЕР ТВ",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=_SLjNGqPQA4"
 		},
 		{
 			"id": 13,
-			"name": "Мысли Миллиардера - РАЗРЕШИ СЕБЕ ЗАРАБАТЫВАТЬ! Почему люди БЕДНЫЕ ?! Игорь Рыбаков",
-			"author": "Игорь Рыбаков",
-			"link": "https://www.youtube.com/watch?v=E3Sz0lXmtkQ"
-		},
-		{
-			"id": 14,
-			"name": "Два Солнца в небе (и более) / Двойные и кратные звезды. Часть 1. Выпуск 40",
-			"author": "Космос Просто",
-			"link": "https://www.youtube.com/watch?v=UVnf3-bt528"
-		},
-		{
-			"id": 15,
-			"name": "Как я зарабатывал 500к в месяц на JavaScript",
-			"author": "Владилен Минин",
-			"link": "https://www.youtube.com/watch?v=HZk31lZYmME"
-		},
-		{
-			"id": 16,
-			"name": "Самое быстрое прохождение GTA Vice City [Разбор спидрана]",
-			"author": "Naritsa",
-			"link": "https://www.youtube.com/watch?v=CCA5Bi4Vvjw"
-		},
-		{
-			"id": 17,
-			"name": "HTML уроки. HTML теги. Тег DIV и другие. Уроки HTML CSS JS. Урок №2",
-			"author": "Фрилансер по жизни - IT и фриланс",
-			"link": "https://www.youtube.com/watch?v=V1_2mV48lOk"
-		},
-		{
-			"id": 18,
 			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
 			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
 			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
 		},
 		{
-			"id": 19,
-			"name": "Глубокое программирование музыки - Навыки программирования - Ночная работа Chillstep",
-			"author": "Music Lab",
-			"link": "https://www.youtube.com/watch?v=FuaQ1QhJOkc"
+			"id": 14,
+			"name": "Падение цен на нефть, отчеты Intel и IBM и ЦБ против структурных продуктов / Новости рынков",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=7go5kGqQtzM"
+		},
+		{
+			"id": 15,
+			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
+		},
+		{
+			"id": 16,
+			"name": "KSP UNDERWATER BASE",
+			"author": "Gordon's workshop",
+			"link": "https://www.youtube.com/watch?v=5uPMcEdA5wc"
+		},
+		{
+			"id": 17,
+			"name": "Дефицит автомобилей, одуревшие дилеры – а виной всему потребительская электроника.",
+			"author": "PRO Hi-Tech",
+			"link": "https://www.youtube.com/watch?v=-KlwGvFhQWk"
 		}
 	]
 }
