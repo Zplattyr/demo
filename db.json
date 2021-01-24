@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Вся наша жизнь - это ОБМЕН",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=bkcMwEcPHDw"
+		},
+		{
+			"id": 2,
+			"name": "Будет падать всё: рубль, нефть, золото, акции",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=dMzEAXt71tE"
+		},
+		{
+			"id": 3,
+			"name": "Что, если бы вы стали Партизаном на один день?",
+			"author": "Другая История",
+			"link": "https://www.youtube.com/watch?v=srFKY0ISeYU"
+		},
+		{
+			"id": 4,
+			"name": "Node JS - Быстрый Курс за 1 час (Все Включено!)",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=3aGSqasVPsI"
+		},
+		{
+			"id": 5,
+			"name": "Flash FM (GTA Vice City)",
+			"author": "GTA FM",
+			"link": "https://www.youtube.com/watch?v=B-8EORB783c"
+		},
+		{
+			"id": 6,
+			"name": "ТУТОРИАЛ №2. Как Продать БИТКОИН и Вывести Деньги Из Крипты в РФ и УКР.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=A0CJqhKPNig"
+		},
+		{
+			"id": 7,
+			"name": "ЛЮБЛЮ ЭКРАН СМЕРТИ или КУПИЛ КОМПЬЮТЕР НА ALIEXPRESS - МИСТИЧЕСКИЙ ПК и BSOD",
+			"author": "overbafer1",
+			"link": "https://www.youtube.com/watch?v=pJKrf_VKHqY"
+		},
+		{
+			"id": 8,
+			"name": "Новая финансовая пирамида. WWPC. Кэшбэк для идиотов. Вся правда о лохотроне.",
+			"author": "Все Работы Хороши",
+			"link": "https://www.youtube.com/watch?v=JnSBqlewrz8"
+		},
+		{
+			"id": 9,
+			"name": "8 Вещей, Которые Нужно Знать О Крипте Летом 2018. Деньги 2.0",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=Lr8QbEVw-zc"
+		},
+		{
+			"id": 10,
+			"name": "Самозванцы животного мира",
+			"author": "Хамибин",
+			"link": "https://www.youtube.com/watch?v=NgRhRJoRxmg"
+		},
+		{
+			"id": 11,
+			"name": "Как в Python писать программы с интерфейсом?",
+			"author": "Хауди Хо™ - Просто о мире IT!",
+			"link": "https://www.youtube.com/watch?v=cK-hvG-Q9B0"
+		},
+		{
+			"id": 12,
+			"name": "2021 Mercedes S-Class - краш-тест и безопасность",
+			"author": "CAR TV",
+			"link": "https://www.youtube.com/watch?v=Z10gHrOrlL8"
+		},
+		{
+			"id": 13,
+			"name": "Как сделали изображение черной дыры / Почему мутное / Почему не млечный путь / Что узнали",
+			"author": "Космос Просто",
+			"link": "https://www.youtube.com/watch?v=UBKfcKos2mo"
+		},
+		{
+			"id": 14,
+			"name": "СТАС АЙ КАК ПРОСТО ОБСУЖДЕНИЕ ПРОДЮСЕРА ИВАНОВА С Itpedia, ШТУРМ КАПИТОЛИЯ, НАВАЛЬНЫЙ // СТАСLIVE",
+			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
+			"link": "https://www.youtube.com/watch?v=hzXBMwSEiaA"
+		},
+		{
+			"id": 15,
+			"name": "Разработчик-«ВЕТЕРАН» / 50 ЛЕТ ОПЫТА в программировании / История Евгения Владимировича Полищука",
+			"author": "АйТиБорода",
+			"link": "https://www.youtube.com/watch?v=eqsg3Blzmdg"
+		},
+		{
+			"id": 16,
+			"name": "Самое быстрое прохождение Death Stranding [РАЗБОР СПИДРАНА]",
+			"author": "Naritsa",
+			"link": "https://www.youtube.com/watch?v=8BLpZokofwk"
+		},
+		{
+			"id": 17,
+			"name": "Падение цен на нефть, отчеты Intel и IBM и ЦБ против структурных продуктов / Новости рынков",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=7go5kGqQtzM"
+		}
+	]
+}
