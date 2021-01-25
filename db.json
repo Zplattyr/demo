@@ -1,0 +1,94 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Reflection - Sovietwave Mix",
+			"author": "NewSovietWave",
+			"link": "https://www.youtube.com/watch?v=ElhHt3NCJNY"
+		},
+		{
+			"id": 2,
+			"name": "[MyGap] - Что задумало государство сделать с нашими деньгами [Разбор Бюджета 2019]",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=zeAx6l_xnX4"
+		},
+		{
+			"id": 3,
+			"name": "ТОП-8 Стран, Куда ВАЛИТЬ Из России в 2019.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=DtREbD-7r9E"
+		},
+		{
+			"id": 4,
+			"name": "Как Macbook, но только гoвнo! – ЧЕСТНЫЙ ОБЗОР REDMIBOOK на RYZEN 4000",
+			"author": "Ай, Как Просто!",
+			"link": "https://www.youtube.com/watch?v=OlTWlgzWSDw"
+		},
+		{
+			"id": 5,
+			"name": "1 Hour Of Melancholic Sovietwave 2nd Mix",
+			"author": "Truckfighter",
+			"link": "https://www.youtube.com/watch?v=iLxj6TbbtDk"
+		},
+		{
+			"id": 6,
+			"name": "Kerbal Space Program 2 Developer Answers Important Questions",
+			"author": "Scott Manley",
+			"link": "https://www.youtube.com/watch?v=n-xM_e5x6oc"
+		},
+		{
+			"id": 7,
+			"name": "Налоги инвестора 2021: 6 лайфхаков, чтобы платить меньше",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=XwTmqr3dNy4"
+		},
+		{
+			"id": 8,
+			"name": "Как Ты Видишь Этот Мир: Мифы и Религия",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=yqGaEDmnA0M"
+		},
+		{
+			"id": 9,
+			"name": "Деревянная мебель в пробирке, искусственная роговица, карта коричневых карликов. Новости QWERTY №156",
+			"author": "QWERTY",
+			"link": "https://www.youtube.com/watch?v=sSG9U2X5h_4"
+		},
+		{
+			"id": 10,
+			"name": "Почему русская деревня голосует за Путина",
+			"author": "Важные истории",
+			"link": "https://www.youtube.com/watch?v=37YTRWThCK8"
+		},
+		{
+			"id": 11,
+			"name": "Russian Doomer music vol.16",
+			"author": "JustMyFavStrangeMusic",
+			"link": "https://www.youtube.com/watch?v=zwgKxGB-61U"
+		},
+		{
+			"id": 12,
+			"name": "ПРЕЗИДЕНТ, КОТОРЫЙ ЕЛ ЛЮДЕЙ (+ еще 4 сюжета )",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=6gVSZX_4hXI"
+		},
+		{
+			"id": 13,
+			"name": "Marc Ecko’s Getting Up: Contents Under Pressure | METAVISION",
+			"author": "Metalyst",
+			"link": "https://www.youtube.com/watch?v=JczEQfSXe5g"
+		},
+		{
+			"id": 14,
+			"name": "[MyGap] Экономический Кризис Разворачивается на Наших Глазах",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=rxNadx2rsjE"
+		},
+		{
+			"id": 15,
+			"name": "Building a Trading Robot in Python | Pt. 1",
+			"author": "Sigma Coding",
+			"link": "https://www.youtube.com/watch?v=QAo0x9fE6ck"
+		}
+	]
+}
