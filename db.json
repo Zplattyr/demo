@@ -1,0 +1,118 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Чему я Научился у Роберта Кийосаки. Книга «Богатый Папа Бедный Папа».",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=X1m3QyVR1gw"
+		},
+		{
+			"id": 2,
+			"name": "[MyGap] - Как доверие влияет на нашу жизнь",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=wONsCnYnQb0"
+		},
+		{
+			"id": 3,
+			"name": "Деревянная мебель в пробирке, искусственная роговица, карта коричневых карликов. Новости QWERTY №156",
+			"author": "QWERTY",
+			"link": "https://www.youtube.com/watch?v=sSG9U2X5h_4"
+		},
+		{
+			"id": 4,
+			"name": "Охота на линкор Бисмарк - Мудреныч (История на пальцах)",
+			"author": "Мудреныч",
+			"link": "https://www.youtube.com/watch?v=49lhrUhsQeE"
+		},
+		{
+			"id": 5,
+			"name": "СПАСИТЕЛЬ НАВАЛЬНОГО – НИКОЛАЙ СОБОЛЕВ",
+			"author": "СТАС САТОРИ",
+			"link": "https://www.youtube.com/watch?v=XXzFocmCAic"
+		},
+		{
+			"id": 6,
+			"name": "Финальный рост на рынках акций впереди",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=jNQImrb9P0I"
+		},
+		{
+			"id": 7,
+			"name": "Куда инвестировать первые деньги под 20% ! Мой опыт инвестирования.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=7tGPRuapaso"
+		},
+		{
+			"id": 8,
+			"name": "Как я зарабатывал 500к в месяц на JavaScript",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=HZk31lZYmME"
+		},
+		{
+			"id": 9,
+			"name": "ВАЖНО! СЕО MICROSTRATEGY МАЙКЛ СЕЙЛОР - ПОЧЕМУ BITCOIN БУДЕТ ДОРОЖЕ 15МЛН$ !!!",
+			"author": "PRO BLOCKCHAIN",
+			"link": "https://www.youtube.com/watch?v=ptmmg2aIpCA"
+		},
+		{
+			"id": 10,
+			"name": "ПРОЗРАЧНЫЙ Nubia Red Magic 5G - ЭТО КОСМОС",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=oprxZBj1THc"
+		},
+		{
+			"id": 11,
+			"name": "Построил спутник на орбите в Kerbal Space Program",
+			"author": "Dzheo",
+			"link": "https://www.youtube.com/watch?v=bv4JHtAbzt8"
+		},
+		{
+			"id": 12,
+			"name": "Ходорковский. Бандит Путин, Кучма с ножом, тюрьма, заговор олигархов, Навальный. В гостях у Гордона",
+			"author": "В гостях у Гордона",
+			"link": "https://www.youtube.com/watch?v=hqkRgYuaMsg"
+		},
+		{
+			"id": 13,
+			"name": "ОДЕЖДА, которая делает нас УМНЕЕ? Продуктивный дресс-код",
+			"author": "Простые Мысли",
+			"link": "https://www.youtube.com/watch?v=v4KWaa5UpsI"
+		},
+		{
+			"id": 14,
+			"name": "Система Социального Кредита в Китае",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=ATNHMd0NUVA"
+		},
+		{
+			"id": 15,
+			"name": "ТОП-8 Стран, Куда ВАЛИТЬ Из России в 2019.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=DtREbD-7r9E"
+		},
+		{
+			"id": 16,
+			"name": "ИИС: как получить налоговый вычет? / Возврат налога онлайн - пошаговая инструкция",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=KEyaM5v2JFs"
+		},
+		{
+			"id": 17,
+			"name": "Он вам НЕ ПИНОККИО!  КЛЮЧ от АПОКАЛИПСИСА или Скрытый Смысл: Приключения Буратино",
+			"author": "WATCH GODS - Не треш обзоры",
+			"link": "https://www.youtube.com/watch?v=HfDy7sroJgo"
+		},
+		{
+			"id": 18,
+			"name": "Собеседование в Билайн middle frontend-разработчиком с ЗП 220к",
+			"author": "Archakov Blog",
+			"link": "https://www.youtube.com/watch?v=nToDJ0sh5Z4"
+		},
+		{
+			"id": 19,
+			"name": "Уоррен Баффет - Интервью 2020! Что будет с акциями? Советы Миллиардера!",
+			"author": "INSTARDING",
+			"link": "https://www.youtube.com/watch?v=2nBtKKy7dWI"
+		}
+	]
+}
