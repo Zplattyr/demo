@@ -1,0 +1,94 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Самая ВРЕДНАЯ привычка XXI века.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=_9sZ0TsNY4U"
+		},
+		{
+			"id": 2,
+			"name": "Отношение к делу Устинова // Слияние с Беларусью // Вклады с отрицательной доходностью",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=HbkfEo3sonw"
+		},
+		{
+			"id": 3,
+			"name": "Образование в Чехии. Как потерять деньги и год жизни?",
+			"author": "Игорь Линк",
+			"link": "https://www.youtube.com/watch?v=c7JA3fxLjUo"
+		},
+		{
+			"id": 4,
+			"name": "НОВЫЙ КОДЕК заменит JPEG и MPEG!",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=MUHOLWmI5yA"
+		},
+		{
+			"id": 5,
+			"name": "Парадокс невозможности демократии",
+			"author": "Физика от Побединского",
+			"link": "https://www.youtube.com/watch?v=M9fT3VGOICU"
+		},
+		{
+			"id": 6,
+			"name": "Сбербанк Инвестор: честный обзор приложения 2021 / Инвестиции в акции через Сбербанк: плюсы и минусы",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=Bg2P-KAdHTo"
+		},
+		{
+			"id": 7,
+			"name": "Чему я Научился у Роберта Кийосаки. Книга «Богатый Папа Бедный Папа».",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=X1m3QyVR1gw"
+		},
+		{
+			"id": 8,
+			"name": "Иллюзия истины [Veritasium]",
+			"author": "Vert Dider",
+			"link": "https://www.youtube.com/watch?v=euvm457f6cU"
+		},
+		{
+			"id": 9,
+			"name": "[MyGap] - Из чего состоит Любовь",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=IwErD-pxlGQ"
+		},
+		{
+			"id": 10,
+			"name": "Как Легко Получить 160 000 рублей Пассивного Дохода в год.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=3LGBzB5VgII"
+		},
+		{
+			"id": 11,
+			"name": "Как Шекспир повлиял на игры? | Анализ Assassin’s Creed 2, Dishonored, The Last of Us 2, BioShock...",
+			"author": "TVG",
+			"link": "https://www.youtube.com/watch?v=fSOFsWC69ts"
+		},
+		{
+			"id": 12,
+			"name": "1 Hour Of Melancholic Sovietwave",
+			"author": "Truckfighter",
+			"link": "https://www.youtube.com/watch?v=Ya3XufguZMY&t=1102s"
+		},
+		{
+			"id": 13,
+			"name": "Что не так со СНОВИДЕНИЯМИ? [КР#3]",
+			"author": "Artur Sharifov",
+			"link": "https://www.youtube.com/watch?v=_ZbateLvYME"
+		},
+		{
+			"id": 14,
+			"name": "Косая склейка или джамп-кат? Монтаж в кино за 22 минуты",
+			"author": "КиноПоиск",
+			"link": "https://www.youtube.com/watch?v=QBrFBHfqN1E"
+		},
+		{
+			"id": 15,
+			"name": "Kerbal Space Program 2 | Reaction + Trailer Breakdown - KSP2",
+			"author": "EnterElysium",
+			"link": "https://www.youtube.com/watch?v=GFjUfy6ZWbo"
+		}
+	]
+}
