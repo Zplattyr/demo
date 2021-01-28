@@ -1,0 +1,70 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "НИЩИЙ МИЛЛИОНЕР. ЦИВИЛИЗАЦИОННЫЙ ОТКАТ. (+ еще пара ситуаций)",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=lV4wo8SjedA"
+		},
+		{
+			"id": 2,
+			"name": "[MyGap] - Из чего состоит Любовь",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=IwErD-pxlGQ"
+		},
+		{
+			"id": 3,
+			"name": "TikTok — почему мир сошёл с ума?",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=1--ZrVLAL_k"
+		},
+		{
+			"id": 4,
+			"name": "Насколько космос темный на самом деле, и что это говорит о Вселенной / Астрообзор #72",
+			"author": "Космос Просто",
+			"link": "https://www.youtube.com/watch?v=wieX7BpUc98"
+		},
+		{
+			"id": 5,
+			"name": "KSP Version EVOLUTION [v.0.7.3 to v.1.0]",
+			"author": "Gordon's workshop",
+			"link": "https://www.youtube.com/watch?v=BZl3G8iGaso"
+		},
+		{
+			"id": 6,
+			"name": "Инвестиции в IT в 2021 / Одна компания может уничтожить всех / Стас Ай, как просто",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=1X17xEYEZxo"
+		},
+		{
+			"id": 7,
+			"name": "Зачем Google прокладывает новый гигантский подводный интернет кабель",
+			"author": "Лови Момент",
+			"link": "https://www.youtube.com/watch?v=yAYqmzHLHRE"
+		},
+		{
+			"id": 8,
+			"name": "5 Вещей Которые НЕЛЬЗЯ делать Мужчине.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=nFvLVgaYBdc"
+		},
+		{
+			"id": 9,
+			"name": "Еда стала менее питательной? [Veritasium]",
+			"author": "Vert Dider",
+			"link": "https://www.youtube.com/watch?v=w1GM2OADKYQ"
+		},
+		{
+			"id": 10,
+			"name": "ЧТО ПОЧИТАТЬ ИЗ ФЭНТЕЗИ⚔️ ТОП ЛУЧШИХ ФЭНТЕЗИ КНИГ",
+			"author": "MyBook",
+			"link": "https://www.youtube.com/watch?v=IR7_BCU6KE8"
+		},
+		{
+			"id": 11,
+			"name": "Директриса запугивает школьника из-за значка «Навальный 2018»",
+			"author": "Штаб Навального",
+			"link": "https://www.youtube.com/watch?v=9aZ0jqtMwcc"
+		}
+	]
+}
