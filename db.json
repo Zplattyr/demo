@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Как Ты Кормишь Государство",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=CyKIicFN_w0"
+		},
+		{
+			"id": 2,
+			"name": "Я НЕ ЗНАЛ ЭТО В 18. ВЫБОРЫ В США. БИТКОИН. ЛЕГАЛИЗАЦИЯ ОРУЖИЯ. РОЗОВЫЕ ОЧКИ. ДОЛЛАР ПО 80 РУБ.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=6c4eAzWzH5k&t=381s"
+		},
+		{
+			"id": 3,
+			"name": "ПОЧЕМУ МЫ СОЗДАЕМ И НАРУШАЕМ ПРАВИЛА [netstalkers] Эффект Стрейзанд, Камень-Мем 9gag, Тихий Spotify",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=0rberhUtXyY"
+		},
+		{
+			"id": 4,
+			"name": "Как я зарабатывал 500к в месяц на JavaScript",
+			"author": "Владилен Минин",
+			"link": "https://www.youtube.com/watch?v=HZk31lZYmME"
+		},
+		{
+			"id": 5,
+			"name": "Visiting All Kerbal Planets Using Gravity Assists - Kerbal Space Program 1.7",
+			"author": "Scott Manley",
+			"link": "https://www.youtube.com/watch?v=ujlZBMlpqLY"
+		},
+		{
+			"id": 6,
+			"name": "Инвестиции в IT в 2021 / Одна компания может уничтожить всех / Стас Ай, как просто",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=1X17xEYEZxo"
+		},
+		{
+			"id": 7,
+			"name": "[КостяПрав] Почему люди не могут создать настоящий разум",
+			"author": "КостяПрав",
+			"link": "https://www.youtube.com/watch?v=t5O4JOGQXDs"
+		},
+		{
+			"id": 8,
+			"name": "Бразилия: как Россия, только лучше | От рабства и диктатуры к свободе и демократии",
+			"author": "varlamov",
+			"link": "https://www.youtube.com/watch?v=YDc--1Ez0UI"
+		},
+		{
+			"id": 9,
+			"name": "Парень из деревни стал Сеньором / Ещё раз про .NET / Интервью с Senior .NET Developer #домавместе",
+			"author": "АйТиБорода",
+			"link": "https://www.youtube.com/watch?v=H7E_URbqOb4"
+		},
+		{
+			"id": 10,
+			"name": "Уилл поставил на ставку всё своё время - Время (2011) - Момент из фильма",
+			"author": "топКино",
+			"link": "https://www.youtube.com/watch?v=TjtTjK6RhbY"
+		},
+		{
+			"id": 11,
+			"name": "Хотите знать, как устроен Биткоин (и другие криптовалюты)?",
+			"author": "3Blue1Brown Русский",
+			"link": "https://www.youtube.com/watch?v=Juv9v8wWa0I"
+		},
+		{
+			"id": 12,
+			"name": "Теория Ведра с Крабами",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=PSR_E8BN4-8"
+		},
+		{
+			"id": 13,
+			"name": "Фундаментальный анализ акций. Как отбирать акции в инвестиционный портфель?",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=Oar1u-mZbQU"
+		},
+		{
+			"id": 14,
+			"name": "Где и Когда все же будет построен первый Hyperloop?",
+			"author": "Лови Момент",
+			"link": "https://www.youtube.com/watch?v=Q3VvA9jEVMI"
+		},
+		{
+			"id": 15,
+			"name": "iPad Pro 2020 + Magic Keyboard: МОЯ ЗАМЕНА ПК",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=pnquKTgLEeY"
+		},
+		{
+			"id": 16,
+			"name": "КАК ЧИТАТЬ С УМОМ. Простые, но важные советы",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=yZn2SES_Lek"
+		},
+		{
+			"id": 17,
+			"name": "Нил Деграсс Тайсон — Размышления астрофизика [Vert Dider]",
+			"author": "Vert Dider",
+			"link": "https://www.youtube.com/watch?v=e9DrCjnItI0"
+		}
+	]
+}
