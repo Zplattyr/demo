@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "[КостяПрав] КАК БАНКИ СЧИТАЮТ ПРОЦЕНТЫ: аннуитет и дифференцированный",
+			"author": "КостяПрав",
+			"link": "https://www.youtube.com/watch?v=vR1_xtBc7Hw"
+		},
+		{
+			"id": 2,
+			"name": "Kerbal Space Program 2 Cinematic Announce Trailer",
+			"author": "Kerbal Space Program",
+			"link": "https://www.youtube.com/watch?v=P_nj6wW6Gsc"
+		},
+		{
+			"id": 3,
+			"name": "ВЕРСТКА САЙТА ⚠️ Что нового в HTML CSS появилось для верстальщиков в 2021 году?",
+			"author": "Анна Блок",
+			"link": "https://www.youtube.com/watch?v=tSmUhZBRVf0"
+		},
+		{
+			"id": 4,
+			"name": "Яма В Наших Головах - обзор и смысл фильма: Платформа 2019  The Platform 2019",
+			"author": "WATCH GODS - Не треш обзоры",
+			"link": "https://www.youtube.com/watch?v=ql7SoffKf54"
+		},
+		{
+			"id": 5,
+			"name": "Что стало известно о черных дырах в 2018 году?",
+			"author": "Это [Интересно]",
+			"link": "https://www.youtube.com/watch?v=Y0h1huQBY0Y"
+		},
+		{
+			"id": 6,
+			"name": "СТАС АЙ КАК ПРОСТО СМОТРИТ ФЕМИНИСТКУ ТРЕТЬЕЙ ВОЛНЫ // СТРИМ",
+			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
+			"link": "https://www.youtube.com/watch?v=_XMmV-kGUHg"
+		},
+		{
+			"id": 7,
+			"name": "Откуда взялся Герон? Формула Герона | Ботай cо мной #028 | Борис Трушин |",
+			"author": "Борис Трушин",
+			"link": "https://www.youtube.com/watch?v=4rVzhrDxmkM"
+		},
+		{
+			"id": 8,
+			"name": "Теория Ведра с Крабами",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=PSR_E8BN4-8"
+		},
+		{
+			"id": 9,
+			"name": "ФИНАНСОВЫЙ КРИЗИС 2008 года - НАГЛЯДНО . АНАЛИЗ ЭКОНОМИЧЕСКОГО КРИЗИСА 2008 В СРАВНЕНИИ С 1998",
+			"author": "Андрей Малахов",
+			"link": "https://www.youtube.com/watch?v=oviVvduof10"
+		},
+		{
+			"id": 10,
+			"name": "[КостяПрав] Инвестиции, акции и дивиденды для самых маленьких",
+			"author": "КостяПрав",
+			"link": "https://www.youtube.com/watch?v=TK2ig5Dir5w"
+		},
+		{
+			"id": 11,
+			"name": "ТЯЖЕЛАЯ БОЛЕЗНЬ СТАСА АЙКАКПРОСТО",
+			"author": "Игорь Линк",
+			"link": "https://www.youtube.com/watch?v=Jk6t1jXCoqI"
+		},
+		{
+			"id": 12,
+			"name": "Кино – Пачка Сигарет (DoomerInstrumental)",
+			"author": "Truckfighter",
+			"link": "https://www.youtube.com/watch?v=1ydC-ZXpEF0"
+		},
+		{
+			"id": 13,
+			"name": "Как спасали GameStop, налоговый спецназ для богатых, реальные доходы снова в минусе // Фанимани",
+			"author": "Фанимани",
+			"link": "https://www.youtube.com/watch?v=URdjQhAKVOk"
+		},
+		{
+			"id": 14,
+			"name": "Stock Price Prediction Using Python & Machine Learning",
+			"author": "Computer Science",
+			"link": "https://www.youtube.com/watch?v=QIUxPv5PJOY"
+		},
+		{
+			"id": 15,
+			"name": "Продал БМВ Х5 и купил баксы. Цели Сергея Мавроди (АО МММ). «компании-зомби».",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=DMzz6xyhnAM"
+		},
+		{
+			"id": 16,
+			"name": "Насколько космос темный на самом деле, и что это говорит о Вселенной / Астрообзор #72",
+			"author": "Космос Просто",
+			"link": "https://www.youtube.com/watch?v=wieX7BpUc98"
+		},
+		{
+			"id": 17,
+			"name": "Квантовая физика для чайников!",
+			"author": "Физика от Побединского",
+			"link": "https://www.youtube.com/watch?v=7gr-oLApUkY"
+		}
+	]
+}
