@@ -1,0 +1,94 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "[КостяПрав] ОШИБКА ВЫЖИВШЕГО: почему люди игнорируют самое важное",
+			"author": "КостяПрав",
+			"link": "https://www.youtube.com/watch?v=d3TyN2W_69k"
+		},
+		{
+			"id": 2,
+			"name": "ЭКСПЕРИМЕНТЫ НАД ПОЛЬЗОВАТЕЛЯМИ [netstalkers]",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=1YulT3VLxNs"
+		},
+		{
+			"id": 3,
+			"name": "Как остаться в живых во время лютой ЖОПЫ 2020-2021",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=XP5aQDyiB9E"
+		},
+		{
+			"id": 4,
+			"name": "[GapNews] Сомнительный препарат от коронавируса одобрен в России - Авифавир",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=v2atmMOXVR4"
+		},
+		{
+			"id": 5,
+			"name": "Путин позорно оправдывает свой дворец | Блог Ходорковского",
+			"author": "Михаил Ходорковский",
+			"link": "https://www.youtube.com/watch?v=nM9WndsEu08"
+		},
+		{
+			"id": 6,
+			"name": "Как Использовать Свой Мозг, Чтобы Достичь Чего Угодно",
+			"author": "Таблетка Саморазвития",
+			"link": "https://www.youtube.com/watch?v=_pmS-RjYnMY"
+		},
+		{
+			"id": 7,
+			"name": "Как работает самый эффективный двигатель в мире? [Fraser Cain]",
+			"author": "Vert Dider",
+			"link": "https://www.youtube.com/watch?v=OSG_xWLsnHg"
+		},
+		{
+			"id": 8,
+			"name": "Превращаем старый комп в сетевое хранилище с ОС FreeNAS.",
+			"author": "PRO Hi-Tech",
+			"link": "https://www.youtube.com/watch?v=Hc7Mu6HqABY"
+		},
+		{
+			"id": 9,
+			"name": "iPhone XiR БЕЗ МОНОБРОВИ! | Droider Show #459",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=kiH35txPjPw"
+		},
+		{
+			"id": 10,
+			"name": "Детский мат, Тысячи хулиганов, Отключат сеть // Галопом по Европам #386",
+			"author": "Константин Сёмин",
+			"link": "https://www.youtube.com/watch?v=ANpCfRp9vWs"
+		},
+		{
+			"id": 11,
+			"name": "Что нам будут колоть?",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=EaqfXI3t7eY"
+		},
+		{
+			"id": 12,
+			"name": "ДИКИЙ УЖАС НА СЕВЕРНОМ ПОЛЮСЕ / Выжить в АДУ",
+			"author": "GEO",
+			"link": "https://www.youtube.com/watch?v=Uy3CvVFx4xc"
+		},
+		{
+			"id": 13,
+			"name": "Как серотонин влияет на САМОДИСЦИПЛИНУ. Химия силы воли",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=51gQnoVEcNg"
+		},
+		{
+			"id": 14,
+			"name": "А КАК ЧИТАТЬ?",
+			"author": "Алексей Шевцов",
+			"link": "https://www.youtube.com/watch?v=bWpR5eaU3sg"
+		},
+		{
+			"id": 15,
+			"name": "Куда Уходят Друзья",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=q5ZV8IWCv2s"
+		}
+	]
+}
