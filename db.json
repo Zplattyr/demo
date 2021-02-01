@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "[КостяПрав] Почему люди не могут создать настоящий разум",
+			"author": "КостяПрав",
+			"link": "https://www.youtube.com/watch?v=t5O4JOGQXDs"
+		},
+		{
+			"id": 2,
+			"name": "Как Улучшить Свою Жизнь",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=3UFlnTIU0Qk"
+		},
+		{
+			"id": 3,
+			"name": "10 ЧЕЛОВЕК, ЧЬЮ КАРЬЕРУ РАЗРУШИЛ ОСКАР",
+			"author": "Кино Огонь",
+			"link": "https://www.youtube.com/watch?v=dSwkbVEwsUk"
+		},
+		{
+			"id": 4,
+			"name": "What Makes ALL Your Electronics Work - Firmware Explained",
+			"author": "Techquickie",
+			"link": "https://www.youtube.com/watch?v=3YfZcNUhBKY"
+		},
+		{
+			"id": 5,
+			"name": "Ли Куан Ю, Диктаторы (на русском)",
+			"author": "24 Канал",
+			"link": "https://www.youtube.com/watch?v=dboqrlIeGf0"
+		},
+		{
+			"id": 6,
+			"name": "Как перестроить свою жизнь заново в 2021 году?",
+			"author": "Nick Chernobaev",
+			"link": "https://www.youtube.com/watch?v=Q0CwczN9mPc"
+		},
+		{
+			"id": 7,
+			"name": "Чё Происходит #49 | Митинги и задержания по всей стране, заказуха в ТикТоке, дворец Ротенберга",
+			"author": "varlamov",
+			"link": "https://www.youtube.com/watch?v=DYLtNGbWyVw"
+		},
+		{
+			"id": 8,
+			"name": "Инвестиционный портфель: правильная доля акций и облигаций / Инвестиции для чайников",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=seS4gI3oLqY"
+		},
+		{
+			"id": 9,
+			"name": "Я НЕ ЗНАЛ ЭТО В 18. ВЫБОРЫ В США. БИТКОИН. ЛЕГАЛИЗАЦИЯ ОРУЖИЯ. РОЗОВЫЕ ОЧКИ. ДОЛЛАР ПО 80 РУБ.",
+			"author": "ДЕНЬГИ 2.0",
+			"link": "https://www.youtube.com/watch?v=6c4eAzWzH5k&t=381s"
+		},
+		{
+			"id": 10,
+			"name": "ЛЮБИМЫЕ ТЕОРИИ ЗАГОВОРА [netstalkers]",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=a0ivoc7qnjs"
+		},
+		{
+			"id": 11,
+			"name": "[MyGap] - Феминизм как Сверхценная Идея",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=HaAIo7DZgYI"
+		},
+		{
+			"id": 12,
+			"name": "Владелец дворца Путина - Ротенберг. Как он разбогател?",
+			"author": "Ложь путинского режима",
+			"link": "https://www.youtube.com/watch?v=LYZjSWoHVbE"
+		},
+		{
+			"id": 13,
+			"name": "Смотрим Лахта Центр — самый высокий в России небоскреб",
+			"author": "808",
+			"link": "https://www.youtube.com/watch?v=WULHPuTsS40"
+		},
+		{
+			"id": 14,
+			"name": "Коронавирус: Что Поможет Иммунитету",
+			"author": "CleverMindRu",
+			"link": "https://www.youtube.com/watch?v=BCLGpTU9mww"
+		},
+		{
+			"id": 15,
+			"name": "Почему самолеты красят в белый?",
+			"author": "SkyShips",
+			"link": "https://www.youtube.com/watch?v=hPyRZI2Ndt8"
+		},
+		{
+			"id": 16,
+			"name": "Снижение отменяется? Фондовый рынок Анализ рынка доллар нефть падение рынков обвал рынков инвестиции",
+			"author": "Финансовая Независимость",
+			"link": "https://www.youtube.com/watch?v=uE8BAwq-pbk"
+		},
+		{
+			"id": 17,
+			"name": "[GapNews] Новые налоги, конституция, выборы",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=O4lA0_kdFtc"
+		}
+	]
+}
