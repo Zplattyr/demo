@@ -1,0 +1,112 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "[GapNews] Государство перестало играть в игры",
+			"author": "ОФОРМИТЬ",
+			"link": "https://www.youtube.com/watch?v=PuOM265wtD0"
+		},
+		{
+			"id": 2,
+			"name": "ТВОЯ ГЛАВНАЯ ОШИБКА В ООП",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=yNUJ3vAeyJQ"
+		},
+		{
+			"id": 3,
+			"name": "КАК ИНТЕРНЕТ ПОБЕДИЛ Wall Street [netstalkers] Революция на фондовом рынке",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=rebEXuVEnLA"
+		},
+		{
+			"id": 4,
+			"name": "Предсказание ХАОСА",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=4CbLSAK5dJI"
+		},
+		{
+			"id": 5,
+			"name": "КАК работает Wi-Fi, Bluetooth, 5G, NFC и пр.?",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=hisWy9Pdurs"
+		},
+		{
+			"id": 6,
+			"name": "Агент Смит – человек",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=plcaCamvQQg"
+		},
+		{
+			"id": 7,
+			"name": "[КостяПрав] ОШИБКА ВЫЖИВШЕГО: почему люди игнорируют самое важное",
+			"author": "ЧБУ",
+			"link": "https://www.youtube.com/watch?v=d3TyN2W_69k"
+		},
+		{
+			"id": 8,
+			"name": "Свойства пределов последовательностей, связанные с неравенствами | матан #007 | Борис Трушин !",
+			"author": "КостяПрав",
+			"link": "https://www.youtube.com/watch?v=WTjfi-eqL7E"
+		},
+		{
+			"id": 9,
+			"name": "Выбор монитора для ПК - типы матриц и особенности (См. дополненную версию видео ссылка в описании)",
+			"author": "Борис Трушин",
+			"link": "https://www.youtube.com/watch?v=8gsnktE4cCY"
+		},
+		{
+			"id": 10,
+			"name": "Мода на тупость",
+			"author": "PRO Hi-Tech",
+			"link": "https://www.youtube.com/watch?v=pTxtKuDsC4I"
+		},
+		{
+			"id": 11,
+			"name": "Пародия на популярные YouTube каналы по программированию",
+			"author": "Ёжик Лисичкин",
+			"link": "https://www.youtube.com/watch?v=boNJtKzajyw"
+		},
+		{
+			"id": 12,
+			"name": "Стареют ли протоны, электроны и нейтроны?",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=EpymbG24R0Q"
+		},
+		{
+			"id": 13,
+			"name": "Обвал мемных акций, сильный отчет Alibaba и взлет Русолово / Новости рынков",
+			"author": "Физика от Побединского",
+			"link": "https://www.youtube.com/watch?v=pydDgmVh6xA"
+		},
+		{
+			"id": 14,
+			"name": "Kerbal Space Program 2 Cinematic Announce Trailer",
+			"author": "InvestFuture",
+			"link": "https://www.youtube.com/watch?v=P_nj6wW6Gsc"
+		},
+		{
+			"id": 15,
+			"name": "Рейдерский захват бизнеса Вадима Do4a",
+			"author": "Kerbal Space Program",
+			"link": "https://www.youtube.com/watch?v=AVQV4dCq7Gs"
+		},
+		{
+			"id": 16,
+			"name": "Чем так крут Python — реальный пример. Продуманная архитектура Python",
+			"author": "Ramy Zaycman",
+			"link": "https://www.youtube.com/watch?v=cwAors_xDA4"
+		},
+		{
+			"id": 17,
+			"name": "СТАС АЙ КАК ПРОСТО ДРУЖБА, ПРО ХОВАНСКОГО И ПАШУ (НЕ ШАРЮ!) // СТАСLIVE",
+			"author": "Диджитализируй!",
+			"link": "https://www.youtube.com/watch?v=M40NjNV_00I"
+		},
+		{
+			"id": 18,
+			"name": "Как работает игровой движок // Рендеринг",
+			"author": "СТРИМЫ СТАСА АЙ, КАК ПРОСТО!",
+			"link": "https://www.youtube.com/watch?v=e3yXl8tPVqU"
+		}
+	]
+}
