@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Удаленная работа - не делай ошибок!",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=Rhs0jlQfx_M"
+		},
+		{
+			"id": 2,
+			"name": "ТВОИ БЕСПЛАТНЫЕ ДЕНЬГИ [netstalkers] Безусловный Базовый Доход",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=gcRd3KJNSBI"
+		},
+		{
+			"id": 3,
+			"name": "ДОК vs Б.Цацулин. От углеводов не толстеют!",
+			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
+			"link": "https://www.youtube.com/watch?v=psDom3gJHRA"
+		},
+		{
+			"id": 4,
+			"name": "КАК работает Wi-Fi, Bluetooth, 5G, NFC и пр.?",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=hisWy9Pdurs"
+		},
+		{
+			"id": 5,
+			"name": "ПОЧЕМУ АСТРОЛОГИЯ НЕ РАБОТАЕТ? | Иван Лозовой",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=mrraDV0czzk"
+		},
+		{
+			"id": 6,
+			"name": "Как создать свою 3D-графику? Рейкастинг",
+			"author": "Onigiri",
+			"link": "https://www.youtube.com/watch?v=TTqLX0OHZzI"
+		},
+		{
+			"id": 7,
+			"name": "Важное упущенное. Тарантино.",
+			"author": "ЧБУ",
+			"link": "https://www.youtube.com/watch?v=tuizoZvrhs4&t=93s"
+		},
+		{
+			"id": 8,
+			"name": "Последствия расследования / 10 лет Навальному, митинги, ответ Кремля",
+			"author": "DaiFiveTop",
+			"link": "https://www.youtube.com/watch?v=l2OL7QvlFeM"
+		},
+		{
+			"id": 9,
+			"name": "Ютуберы - IT к̶и̶д̶а̶л̶ы предприниматели // Как не быть обманутым",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=twgWMPc_y-U"
+		},
+		{
+			"id": 10,
+			"name": "Что покупать, когда рынки перегреты / Топ-13 недооценённых акций / Дмитрий Солодин",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=WBIwtuPatsc"
+		},
+		{
+			"id": 11,
+			"name": "[MyGap] - Почему женщины постоянно опаздывают",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=PIxdyQ4d7XU"
+		},
+		{
+			"id": 12,
+			"name": "Инсулинорезистентность. Все признаки.",
+			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
+			"link": "https://www.youtube.com/watch?v=BUxu2I160sY"
+		},
+		{
+			"id": 13,
+			"name": "Как пользователи Reddit разоряют Уолл-Стрит?",
+			"author": "NN",
+			"link": "https://www.youtube.com/watch?v=HyOBg7Qljc8"
+		},
+		{
+			"id": 14,
+			"name": "ТВОЯ ГЛАВНАЯ ОШИБКА В ООП",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=yNUJ3vAeyJQ"
+		},
+		{
+			"id": 15,
+			"name": "Чума - [История Медицины]",
+			"author": "LOONY",
+			"link": "https://www.youtube.com/watch?v=p2sv3YtopAs"
+		},
+		{
+			"id": 16,
+			"name": "НЕ ВЕРЮ! СЕРГЕЙ ХУДИЕВ И АЛЕКСАНДР ПАНЧИН",
+			"author": "Телеканал СПАС",
+			"link": "https://www.youtube.com/watch?v=1bWHRRasUpY"
+		},
+		{
+			"id": 17,
+			"name": "Как взломать мир-симуляцию | Иван Лозовой",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=DCAh6Qpodh8"
+		}
+	]
+}
