@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Паттерн Фабричный Метод",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=ZAh3NQ9WiSg"
+		},
+		{
+			"id": 2,
+			"name": "Бутылка виски спасает всех",
+			"author": "ЧБУ",
+			"link": "https://www.youtube.com/watch?v=kVt6Sj-q8hA"
+		},
+		{
+			"id": 3,
+			"name": "Понять за 15 минут: почему люди верят в паранормальное",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=o2NzibAcDoI"
+		},
+		{
+			"id": 4,
+			"name": "Творог и инсулин. Вы этого не знали!",
+			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
+			"link": "https://www.youtube.com/watch?v=94EYPNT4rY8"
+		},
+		{
+			"id": 5,
+			"name": "[MyGap] Патриотизм с Точки Зрения Психологии",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=eSNB9kgyxh4"
+		},
+		{
+			"id": 6,
+			"name": "История самого успешного хакерского смартфона EncroChat",
+			"author": "stupidmadworld",
+			"link": "https://www.youtube.com/watch?v=VicJCX5MIRw"
+		},
+		{
+			"id": 7,
+			"name": "Что нужно знать Junior C# разработчику?",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=v31F8ExGvpY"
+		},
+		{
+			"id": 8,
+			"name": "Прозрачные звезды могут существовать?",
+			"author": "Космос Просто",
+			"link": "https://www.youtube.com/watch?v=xoR7ob0r8vo"
+		},
+		{
+			"id": 9,
+			"name": "Что покупать, когда рынки перегреты / Топ-13 недооценённых акций / Дмитрий Солодин",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=WBIwtuPatsc"
+		},
+		{
+			"id": 10,
+			"name": "Советы пятнадцатилетним - как жить подростку",
+			"author": "Хулиномика",
+			"link": "https://www.youtube.com/watch?v=FU9Y40j8xq4"
+		},
+		{
+			"id": 11,
+			"name": "Kerbal Space Program 2 Cinematic Announce Trailer",
+			"author": "Kerbal Space Program",
+			"link": "https://www.youtube.com/watch?v=P_nj6wW6Gsc"
+		},
+		{
+			"id": 12,
+			"name": "КАК ИНТЕРНЕТ ПОБЕДИЛ Wall Street [netstalkers] Революция на фондовом рынке",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=rebEXuVEnLA"
+		},
+		{
+			"id": 13,
+			"name": "Чума - [История Медицины]",
+			"author": "LOONY",
+			"link": "https://www.youtube.com/watch?v=p2sv3YtopAs"
+		},
+		{
+			"id": 14,
+			"name": "ПРОГРАММИСТ Ожидание VS Реальность",
+			"author": "Хауди Хо™ - Просто о мире IT!",
+			"link": "https://www.youtube.com/watch?v=j0U7c7tr1Tw"
+		},
+		{
+			"id": 15,
+			"name": "Обзор Visual Studio 2017",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=lsPsH6Mhq2c"
+		},
+		{
+			"id": 16,
+			"name": "Всё могу, ничего не умею",
+			"author": "Dagon",
+			"link": "https://www.youtube.com/watch?v=GlFD_h-6ujA&t=266s"
+		},
+		{
+			"id": 17,
+			"name": "ЭКОНОМИКА ТРЕТЬЕГО РЕЙХА: Крупп",
+			"author": "Держать Курс",
+			"link": "https://www.youtube.com/watch?v=eNPHncu22Bk"
+		}
+	]
+}
