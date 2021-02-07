@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "ОСНОВА VI. УБЕЖДЕНИЕ",
+			"author": "ОСНОВАНИЕ",
+			"link": "https://www.youtube.com/watch?v=nrc9yEqxje8"
+		},
+		{
+			"id": 2,
+			"name": "Самая ВАЖНАЯ часть .NET",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=neu6M576RWo"
+		},
+		{
+			"id": 3,
+			"name": "Важное упущенное. Тарантино.",
+			"author": "ЧБУ",
+			"link": "https://www.youtube.com/watch?v=tuizoZvrhs4&t=93s"
+		},
+		{
+			"id": 4,
+			"name": "Предсказания из машины | Артур Шарифов",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=wkmAb3gmua4"
+		},
+		{
+			"id": 5,
+			"name": "iPhone 12 Pro ПОСЛЕ ANDROID",
+			"author": "Droider.Ru",
+			"link": "https://www.youtube.com/watch?v=CRopCDxlHjA"
+		},
+		{
+			"id": 6,
+			"name": "Что покупать, когда рынки перегреты / Топ-13 недооценённых акций / Дмитрий Солодин",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=WBIwtuPatsc"
+		},
+		{
+			"id": 7,
+			"name": "Чума - [История Медицины]",
+			"author": "LOONY",
+			"link": "https://www.youtube.com/watch?v=p2sv3YtopAs"
+		},
+		{
+			"id": 8,
+			"name": "КАК ИНТЕРНЕТ ПОБЕДИЛ Wall Street [netstalkers] Революция на фондовом рынке",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=rebEXuVEnLA"
+		},
+		{
+			"id": 9,
+			"name": "[MyGap] Патриотизм с Точки Зрения Психологии",
+			"author": "MyGap",
+			"link": "https://www.youtube.com/watch?v=eSNB9kgyxh4"
+		},
+		{
+			"id": 10,
+			"name": "Стареют ли протоны, электроны и нейтроны?",
+			"author": "Физика от Побединского",
+			"link": "https://www.youtube.com/watch?v=EpymbG24R0Q"
+		},
+		{
+			"id": 11,
+			"name": "C# для маленьких и тупых #0.",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=86KLS8das2k"
+		},
+		{
+			"id": 12,
+			"name": "ПРЕСЛЕДОВАВШИЙ МЕНЯ ИВАНОВ ТЕПЕРЬ В ПСИХУШКЕ – ЭТО КОНЕЦ?",
+			"author": "СТАС",
+			"link": "https://www.youtube.com/watch?v=bEGKRiWevG8&t=16s"
+		},
+		{
+			"id": 13,
+			"name": "Мода на тупость",
+			"author": "Ёжик Лисичкин",
+			"link": "https://www.youtube.com/watch?v=pTxtKuDsC4I"
+		},
+		{
+			"id": 14,
+			"name": "10 лучших фильмов, в которых злодеи побеждали",
+			"author": "Looper Россия",
+			"link": "https://www.youtube.com/watch?v=uXZb6N_UAAU"
+		},
+		{
+			"id": 15,
+			"name": "БОЛЬШОЙ ПРОРЫВ! ГРАФЕНОВЫЕ БАТАРЕИ УЖЕ НА РЫНКЕ",
+			"author": "Лови Момент",
+			"link": "https://www.youtube.com/watch?v=lM9Wim05lMk"
+		},
+		{
+			"id": 16,
+			"name": "ЭКОНОМИКА ТРЕТЬЕГО РЕЙХА: Крупп",
+			"author": "Держать Курс",
+			"link": "https://www.youtube.com/watch?v=eNPHncu22Bk"
+		},
+		{
+			"id": 17,
+			"name": "Лебовски знает, что он герой фильма",
+			"author": "ЧБУ",
+			"link": "https://www.youtube.com/watch?v=cuIHlxC3Voc"
+		}
+	]
+}
