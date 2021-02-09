@@ -1,0 +1,106 @@
+{
+	"videos": [
+		{
+			"id": 1,
+			"name": "Делегаты и события на практике",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=ZVtqk5QqVSQ"
+		},
+		{
+			"id": 2,
+			"name": "Добавки, которые я рекомендую!",
+			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
+			"link": "https://www.youtube.com/watch?v=1p3ZoOJKUIE"
+		},
+		{
+			"id": 3,
+			"name": "Основная теорема арифметики | Ботай со мной #015 | Борис Трушин ||",
+			"author": "Борис Трушин",
+			"link": "https://www.youtube.com/watch?v=JOzeL5rjv60"
+		},
+		{
+			"id": 4,
+			"name": "Как умереть человеком",
+			"author": "ЧБУ",
+			"link": "https://www.youtube.com/watch?v=0eGg29YcVvQ"
+		},
+		{
+			"id": 5,
+			"name": "Что покупать, когда рынки перегреты / Топ-13 недооценённых акций / Дмитрий Солодин",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=WBIwtuPatsc"
+		},
+		{
+			"id": 6,
+			"name": "КАК ПОЗНАВАТЬ И НЕ ОСТАВАТЬСЯ В ДУРАКАХ",
+			"author": "SciOne",
+			"link": "https://www.youtube.com/watch?v=dkCTV_NvU9A"
+		},
+		{
+			"id": 7,
+			"name": "C# — ковариантность и контравариантность в обобщенных интерфейсах",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=BvmvcHroPRg"
+		},
+		{
+			"id": 8,
+			"name": "Самые важные упражнения для здоровья спины!",
+			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
+			"link": "https://www.youtube.com/watch?v=Rb6DnvnUg5c"
+		},
+		{
+			"id": 9,
+			"name": "ЧТО НЕ ТАК С ИНТЕРНЕТОМ [netstalkers] Суверенный, зато наш",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=6dsaHt07yuQ"
+		},
+		{
+			"id": 10,
+			"name": "💻 За Пиратскую Windows могут посадить!",
+			"author": "iKakProsto2",
+			"link": "https://www.youtube.com/watch?v=acbOFF8Mf2Q"
+		},
+		{
+			"id": 11,
+			"name": "Как создать свою 3D-графику? Рейкастинг",
+			"author": "Onigiri",
+			"link": "https://www.youtube.com/watch?v=TTqLX0OHZzI"
+		},
+		{
+			"id": 12,
+			"name": "S0ER — работа программистом в ЦБ и бесконечная еда в отелях — Мы обречены #33",
+			"author": "Мы обречены",
+			"link": "https://www.youtube.com/watch?v=BuJHGA4R23U"
+		},
+		{
+			"id": 13,
+			"name": "КАК РАЗВИТЬ ХАРИЗМУ: Дофамин, Тестостерон, Интеллект",
+			"author": "CleverMindRu",
+			"link": "https://www.youtube.com/watch?v=mkTpjT2E2ys"
+		},
+		{
+			"id": 14,
+			"name": "Почему больше - это меньше. Дисциплина и ПАРАДОКС ВЫБОРА",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=vP11wZng6yk"
+		},
+		{
+			"id": 15,
+			"name": "СУПЕРМОНАХ ШАОЛИНЯ! РЕАЛЬНАЯ история",
+			"author": "GEO",
+			"link": "https://www.youtube.com/watch?v=5vbYV8hcBf0"
+		},
+		{
+			"id": 16,
+			"name": "Prey - Что это вообще такое?",
+			"author": "TreeGrass",
+			"link": "https://www.youtube.com/watch?v=3dBIO3VX2xM"
+		},
+		{
+			"id": 17,
+			"name": "Plague Inc. Evolved Soundtrack (OST, 10 Tracks)",
+			"author": "Lyra",
+			"link": "https://www.youtube.com/watch?v=38j1Loi4r9o"
+		}
+	]
+}
