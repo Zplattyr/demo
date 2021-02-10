@@ -2,45 +2,45 @@
 	"videos": [
 		{
 			"id": 1,
-			"name": "Делаем парсер HTML на C#",
-			"author": "ExtremeCode",
-			"link": "https://www.youtube.com/watch?v=nz4ZCr6pnXA"
+			"name": "Как НЕ заболеть РАКом?",
+			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
+			"link": "https://www.youtube.com/watch?v=W3Rbl0I4ONM"
 		},
 		{
 			"id": 2,
-			"name": "РАЗОБЛАЧЕНИЕ МИФОВ ПРО ДАРКНЕТ [netstalkers]",
+			"name": "УЧЕБА – ЗЛО? [netstalkers] Высшее образование в России",
 			"author": "netstalkers",
-			"link": "https://www.youtube.com/watch?v=yJ6g9sR8znU"
+			"link": "https://www.youtube.com/watch?v=1s94wSr2_Qo"
 		},
 		{
 			"id": 3,
-			"name": "Причины краха рынков в 2021 / Как понять, что коррекция перерастает в обвал",
-			"author": "Деньги не спят",
-			"link": "https://www.youtube.com/watch?v=QLPRofQQcr0"
+			"name": "Паттерн Фабричный Метод",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=ZAh3NQ9WiSg"
 		},
 		{
 			"id": 4,
-			"name": "Морфеус — программа",
-			"author": "ЧБУ",
-			"link": "https://www.youtube.com/watch?v=ePVjWmat0j4"
+			"name": "Чума - [История Медицины]",
+			"author": "LOONY",
+			"link": "https://www.youtube.com/watch?v=p2sv3YtopAs"
 		},
 		{
 			"id": 5,
-			"name": "Врач-качок:КАК ТРЕНИРОВАТЬСЯ НАТУРАЛУ???",
-			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
-			"link": "https://www.youtube.com/watch?v=HLb7spg_Pp0"
+			"name": "Человек в космосе: Разбор мифов из кино, Реальная причина смерти, Ощущения",
+			"author": "Доктор Грег",
+			"link": "https://www.youtube.com/watch?v=GUgD6HHg6-Y"
 		},
 		{
 			"id": 6,
-			"name": "But why is a sphere's surface area four times its shadow?",
-			"author": "3Blue1Brown",
-			"link": "https://www.youtube.com/watch?v=GNcFjFmqEc8"
+			"name": "КАК РАБОТАТЬ МЕНЬШЕ, НО УСПЕВАТЬ БОЛЬШЕ",
+			"author": "Простая Академия",
+			"link": "https://www.youtube.com/watch?v=JMYzp1ab41I"
 		},
 		{
 			"id": 7,
-			"name": "КАК БЫ ВЫГЛЯДЕЛА ЗЕМЛЯ, ЕСЛИ БЫ ПАНГЕЯ НЕ РАСПАЛАСЬ?",
-			"author": "KOSMO",
-			"link": "https://www.youtube.com/watch?v=YOD6MQJ5aDs"
+			"name": "Причины краха рынков в 2021 / Как понять, что коррекция перерастает в обвал",
+			"author": "Деньги не спят",
+			"link": "https://www.youtube.com/watch?v=QLPRofQQcr0"
 		},
 		{
 			"id": 8,
