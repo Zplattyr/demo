@@ -8,39 +8,39 @@
 		},
 		{
 			"id": 2,
-			"name": "10 Советов новичкам программистам",
-			"author": "Хауди Хо™ - Просто о мире IT!",
-			"link": "https://www.youtube.com/watch?v=WHMQmJm6SWM"
+			"name": "ДОК отвечает: Денчик Борисов, время под нагрузкой, сердце, суставы, связки!",
+			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
+			"link": "https://www.youtube.com/watch?v=U5x-1awjbF0"
 		},
 		{
 			"id": 3,
-			"name": "Калории - это миф!? Врач пояснит!",
-			"author": "ДНЕВНИК ВРАЧА ЕГОРОВА",
-			"link": "https://www.youtube.com/watch?v=xWS0-6DeXyk"
+			"name": "Как стать Back-End разработчиком? ► Самый Верный Путь! ► Python или PHP?",
+			"author": "Хауди Хо™ - Просто о мире IT!",
+			"link": "https://www.youtube.com/watch?v=fgXFFK377R8"
 		},
 		{
 			"id": 4,
-			"name": "Что происходит с временем? Ускорение Земли",
+			"name": "АНОНИМНЫЙ ИНТЕРНАЦИОНАЛ – Рождественская Сказка [netstalkers]",
+			"author": "netstalkers",
+			"link": "https://www.youtube.com/watch?v=PXiLpbJlOqE"
+		},
+		{
+			"id": 5,
+			"name": "Что происходит со временем? Ускорение Земли",
 			"author": "QWERTY",
 			"link": "https://www.youtube.com/watch?v=j_fWobCgaqQ"
 		},
 		{
-			"id": 5,
-			"name": "СПАСИТЕЛЬ НАВАЛЬНОГО – НИКОЛАЙ СОБОЛЕВ",
-			"author": "СТАС САТОРИ",
-			"link": "https://www.youtube.com/watch?v=XXzFocmCAic"
-		},
-		{
 			"id": 6,
-			"name": "КАК ТЕХНОЛОГИИ ИЗМЕНИЛИ ЧЕЛОВЕКА? [netstalkers]",
-			"author": "netstalkers",
-			"link": "https://www.youtube.com/watch?v=PFBe7grR6eY"
+			"name": "Подкаст Дажарахова 1: СТАС И МИЛОХИН О РЕКЛАМЕ КОВИДА, УМЕ, ВОРОВСТВЕ И ТИК ТОКЕ.",
+			"author": "СТАС САТОРИ",
+			"link": "https://www.youtube.com/watch?v=QkU9y6srLAY"
 		},
 		{
 			"id": 7,
-			"name": "Создание игр на C++: Марио (платформер)",
-			"author": "FamTrinli",
-			"link": "https://www.youtube.com/watch?v=6OHMFwQK44k"
+			"name": "Важнейший шаблон программирования из 23-х",
+			"author": "ExtremeCode",
+			"link": "https://www.youtube.com/watch?v=-AaVsHkgWcQ"
 		},
 		{
 			"id": 8,
@@ -68,27 +68,27 @@
 		},
 		{
 			"id": 13,
-			"name": "Как выбраться из рутины",
-			"author": "LOONY",
-			"link": "https://www.youtube.com/watch?v=wmqIfS8ry28"
+			"name": "История моего фриланса ► С 0 до $5,000!",
+			"author": "Сашкинс",
+			"link": "https://www.youtube.com/watch?v=dfGyUcK5-ks"
 		},
 		{
 			"id": 14,
-			"name": "Чума - [История Медицины]",
-			"author": "Kerbal Space Program",
-			"link": "https://www.youtube.com/watch?v=p2sv3YtopAs"
+			"name": "Фейковая реклама мобильных игр l Gardenscapes Homescapes и Wildscapes",
+			"author": "Алисолекторий",
+			"link": "https://www.youtube.com/watch?v=jZ-sOXz54vY"
 		},
 		{
 			"id": 15,
-			"name": "Kerbal Space Program 2 Cinematic Announce Trailer",
-			"author": "Старый Видик",
-			"link": "https://www.youtube.com/watch?v=P_nj6wW6Gsc"
+			"name": "Александр Панчин — 10 самых опасных заблуждений, псевдонаук и суеверий",
+			"author": "LOONY",
+			"link": "https://www.youtube.com/watch?v=ky-9CKqf0GE"
 		},
 		{
 			"id": 16,
-			"name": "ЧИП И ДЕЙЛ | Гид по культовому мультсериалу",
-			"author": "Хауди Хо™ - Просто о мире IT!",
-			"link": "https://www.youtube.com/watch?v=paKSIfccBWM"
+			"name": "Чума - [История Медицины]",
+			"author": "ЧБУ",
+			"link": "https://www.youtube.com/watch?v=p2sv3YtopAs"
 		}
 	]
 }
